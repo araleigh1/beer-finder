@@ -11,6 +11,7 @@ import requests
 from requests import get
 from bs4 import BeautifulSoup
 from lxml import etree
+import re
 
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
@@ -35,20 +36,18 @@ time.sleep(10)
 source = driver.page_source
 soup = BeautifulSoup(source, "html.parser")
 
-place = []
+url = []
 
 beer_div = soup.find_all('div', class_= 'pure-u-1')
-for container in beer_div:
-    name = container.h3.a.text
-    place.append(name)
+for div in beer_div:
+    links = div.find_all('a')
+    for sites in links:
+        url.append(sites['href'])
 
-print(place)
+home = "https://www.beermenus.com"
 
+full_url = [home + x for x in url]
 
-#final_result = []
-#names = ['name1', 'name2', 'name3']
-#for name in names:
-#    final_result.append(get_results(name))
+print(full_url)
 
-#print(final_result) 
 
