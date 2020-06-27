@@ -4,3 +4,5 @@ sendgrid==6.0.5
 Flask
 selenium
 beautifulsoup4
+pandas
+numpy
