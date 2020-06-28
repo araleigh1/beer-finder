@@ -12,14 +12,12 @@ from requests import get
 from bs4 import BeautifulSoup
 from lxml import etree
 import re
-
+import urllib.request
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 
 zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
 
-
-CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 driver = webdriver.Chrome(CHROMEDRIVER_PATH)
 driver.get("https://www.beermenus.com/places")
 searchbox_xpath = '//*[@id="location_address"]'
@@ -32,10 +30,10 @@ time.sleep(1)
 searchbox.send_keys(Keys.RETURN)
 time.sleep(2)
 searchbox.send_keys(Keys.RETURN)
-time.sleep(10)
+time.sleep(5)
 source = driver.page_source
 soup = BeautifulSoup(source, "html.parser")
-
+driver.quit()
 url = []
 
 beer_div = soup.find_all('div', class_= 'pure-u-1')
@@ -49,5 +47,44 @@ home = "https://www.beermenus.com"
 full_url = [home + x for x in url]
 
 print(full_url)
+print(len(full_url))
+
+beers = []
+
+browser = webdriver.Chrome(CHROMEDRIVER_PATH)
+for u in full_url:
+    browser.get(u)
+    time.sleep(5)
+    response = browser.page_source
+    soup1 = BeautifulSoup(response, "html.parser")
+    beer_div1 = soup1.find_all('ul', id = 'on_tap')
+    for d in beer_div1:
+        divs = d.find_all('li', class_ = 'pure-list-item')
+        for container in divs:
+            name = container.h3.a.text
+            beers.append(name)
+        
+print(beers)
+browser.quit() 
 
 
+#for u in full_url:
+ #   driver.get(u)
+  #  time.sleep(10)
+   # response = driver.page_source
+    #soup1 = BeautifulSoup(response.content, "html.parser")
+    #beer_div1 = soup1.find_all('div', id = 'menu')
+    #for div in beer_div1:
+    #    links1 = div.find_all('a')
+     #   beers.append(links1)
+
+
+
+
+#for u in full_url:
+ #   response = requests.get(u)
+  #  soup1 = BeautifulSoup(response.content, "html.parser")
+   # beer_div1 = soup1.find_all('div', class_ = 'pure-g')
+    #for div in beer_div1:
+     #   links1 = div.find_all('a')
+      #  beers.append(links1)
