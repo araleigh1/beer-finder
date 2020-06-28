@@ -4,6 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.chrome.options import Options
 import time
 import pandas
 import numpy
@@ -12,12 +13,13 @@ from requests import get
 from bs4 import BeautifulSoup
 from lxml import etree
 import re
-import urllib.request
+
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
+chrome_options = Options()
 
 zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
-
+chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(CHROMEDRIVER_PATH)
 driver.get("https://www.beermenus.com/places")
 searchbox_xpath = '//*[@id="location_address"]'
@@ -46,25 +48,43 @@ home = "https://www.beermenus.com"
 
 full_url = [home + x for x in url]
 
-print(full_url)
-print(len(full_url))
+#print(full_url)
+#print(len(full_url))
 
 beers = []
-
+beer_sites = []
 browser = webdriver.Chrome(CHROMEDRIVER_PATH)
-for u in full_url:
+options = webdriver.ChromeOptions()
+
+
+for u in full_url[:10]:
     browser.get(u)
-    time.sleep(5)
+    time.sleep(3)
+    options.add_argument('--headless')
     response = browser.page_source
-    soup1 = BeautifulSoup(response, "html.parser")
+    soup1 = BeautifulSoup(response, "html.parser") 
     beer_div1 = soup1.find_all('ul', id = 'on_tap')
+    #beer_div2 = soup1.find_all('ul', id = 'cans')
+    #beer_div3 = soup1.find_all('ul', id = 'bottles')
     for d in beer_div1:
-        divs = d.find_all('li', class_ = 'pure-list-item')
-        for container in divs:
+        divs1 = d.find_all('li', class_ = 'pure-list-item')
+        for container in divs1:
             name = container.h3.a.text
             beers.append(name)
-        
+    for b in beer_div1:
+        divs2 = b.find_all('li', class_ = 'pure-list-item')
+        for container1 in divs2:
+            links1 = container1.find_all('a')
+            for sites1 in links1:
+                beer_sites.append(sites1['href'])   
+
+
+beer_url = [home + x for x in beer_sites]
+
+
+
 print(beers)
+print(beer_url)
 browser.quit() 
 
 
