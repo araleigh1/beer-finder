@@ -13,7 +13,7 @@ from requests import get
 from bs4 import BeautifulSoup
 from lxml import etree
 import re
-
+import pandas as pd
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 chrome_options = Options()
@@ -57,7 +57,7 @@ browser = webdriver.Chrome(CHROMEDRIVER_PATH)
 options = webdriver.ChromeOptions()
 
 
-for u in full_url[:10]:
+for u in full_url[:2]:
     browser.get(u)
     time.sleep(3)
     options.add_argument('--headless')
@@ -77,15 +77,19 @@ for u in full_url[:10]:
             links1 = container1.find_all('a')
             for sites1 in links1:
                 beer_sites.append(sites1['href'])   
-
+browser.quit()
 
 beer_url = [home + x for x in beer_sites]
+#print(beers)
+#print(beer_url)
+ 
+df = pd.DataFrame({
+    'Beers': beers,
+    'Website': beer_url
+})
 
+print(df)
 
-
-print(beers)
-print(beer_url)
-browser.quit() 
 
 
 #for u in full_url:
