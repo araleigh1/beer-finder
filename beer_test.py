@@ -1,3 +1,4 @@
+import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
@@ -6,19 +7,22 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.options import Options
 import time
-import pandas
-import numpy
-import requests
-from requests import get
 from bs4 import BeautifulSoup
-from lxml import etree
+from pprint import pprint
 import re
 import pandas as pd
+from dotenv import load_dotenv
+from flask import Flask, request, render_template, session, redirect
+
+load_dotenv()
+
+zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 chrome_options = Options()
+APP_ENV = "development"
 
-zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
+
 chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(CHROMEDRIVER_PATH)
 driver.get("https://www.beermenus.com/places")
@@ -57,7 +61,7 @@ browser = webdriver.Chrome(CHROMEDRIVER_PATH)
 options = webdriver.ChromeOptions()
 
 
-for u in full_url[:2]:
+for u in full_url[:1]:
     browser.get(u)
     time.sleep(3)
     options.add_argument('--headless')
@@ -76,39 +80,44 @@ for u in full_url[:2]:
         for container1 in divs2:
             links1 = container1.find_all('a')
             for sites1 in links1:
-                beer_sites.append(sites1['href'])   
-browser.quit()
+                beer_sites.append(sites1['href'])
+    browser.quit()
+
 
 beer_url = [home + x for x in beer_sites]
 #print(beers)
 #print(beer_url)
- 
-df = pd.DataFrame({
-    'Beers': beers,
-    'Website': beer_url
-})
 
-print(df)
+app = Flask(__name__)
 
+a = {'Beers': beers, 'Website': beer_url}
 
+df = pd.DataFrame.from_dict(a, orient='index')
+def make_clickable(val):
+    # target _blank to open new window
+        return '<a target="_blank" href="{}">{}</a>'.format(val, val)
 
-#for u in full_url:
- #   driver.get(u)
-  #  time.sleep(10)
-   # response = driver.page_source
-    #soup1 = BeautifulSoup(response.content, "html.parser")
-    #beer_div1 = soup1.find_all('div', id = 'menu')
-    #for div in beer_div1:
-    #    links1 = div.find_all('a')
-     #   beers.append(links1)
+df.style.format({'Website': make_clickable})
 
+html = (df.transpose())
 
+@app.route("/", methods=("POST", "GET"))
+def html_table():
+    return html.to_html(header="true", table_id="table")
 
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
+   
 
-#for u in full_url:
- #   response = requests.get(u)
-  #  soup1 = BeautifulSoup(response.content, "html.parser")
-   # beer_div1 = soup1.find_all('div', class_ = 'pure-g')
-    #for div in beer_div1:
-     #   links1 = div.find_all('a')
-      #  beers.append(links1)
+#if __name__ == "__main__":
+#    if APP_ENV == "development":
+#        zip_code = zip_code
+ #       results = get_beer() # invoke with custom params
+  #  else:
+   #     results = get_beer() # invoke with default params
+    
+    #text_file = open("index.html", "w")
+    #text_file.write(results)
+    #text_file.close()
+
+#print(results)
