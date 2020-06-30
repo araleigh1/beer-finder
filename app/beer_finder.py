@@ -1,4 +1,3 @@
-import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
@@ -12,23 +11,24 @@ from pprint import pprint
 import re
 import pandas as pd
 from dotenv import load_dotenv
+import os
 from flask import Flask, request, render_template, session, redirect
 import numpy as np
 
 load_dotenv()
 
-CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
-chrome_options = Options()
+APP_ENV = "development"
+CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe" #Note to user - insert your Chromedriver Path here
+#chrome_options = Options()
 #chrome_options.add_argument("--headless")
 #chrome_options.add_argument("--window-size=1920x1080")
-APP_ENV = "development"
+
+#https://github.com/vprusso/youtube_tutorials  - used to learn basics of webscraping
+#https://stackoverflow.com/questions/44668998/selenium-how-to-get-page-source-code-after-clicking-a-button
 
 def get_beer(zip_code):
 
-    driver = webdriver.Chrome(chrome_options=chrome_options, executable_path=CHROMEDRIVER_PATH)
-    print("-----------------------------------------------------------------------")
-    print("LOADING BEERMENUS.COM")
-    print("-----------------------------------------------------------------------")
+    driver = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
     driver.get("https://www.beermenus.com/places")
     searchbox_xpath = '//*[@id="location_address"]'
     searchbox = driver.find_element_by_xpath(searchbox_xpath)
@@ -57,15 +57,15 @@ def get_beer(zip_code):
 
     full_url = [home + x for x in url]
 
-    
     print("-----------------------------------------------------------------------")
     print("Found "+str(len(full_url))+ " LOCAL BARS AND RESTAURANTS")
+    print("Check CSV File in Data Folder for All of the Details!")
     print("-----------------------------------------------------------------------")
 
     beers = []
     beer_sites = []
 
-    browser = webdriver.Chrome(chrome_options=chrome_options, executable_path=CHROMEDRIVER_PATH)
+    browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
 
     for u in full_url[:10]:
         browser.get(u)
@@ -91,18 +91,15 @@ def get_beer(zip_code):
                         b = [e.strip() for e in name]
                         for a in b:
                             beers.append(str(a))
-
-        for b in beer_div1:
-            divs2 = b.find_all('li', class_ = 'pure-list-item')
-            for z2 in divs2:
-                containerz2 = z2.find_all('h3', class_ = 'mb-0 text-normal')
-                for container1 in containerz2:
-                    links1 = container1.find_all('a')
-                    for sites1 in links1:
+                    for sites1 in links0:
                         beer_sites.append(sites1['href']) 
        
     browser.quit()
 
+#https://medium.com/better-programming/the-only-step-by-step-guide-youll-need-to-build-a-web-scraper-with-python-e79066bd895a
+#https://stackoverflow.com/questions/8049520/web-scraping-javascript-page-with-python
+    
+    
     beer_url = [home + x for x in beer_sites]
 
     l1 = beers
@@ -124,14 +121,20 @@ def get_beer(zip_code):
     os.chdir("data")
     results.to_csv('data.csv')
     return results
-   
-if __name__ == "__main__":
-    if APP_ENV == "development":
-        zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
-        results = get_beer(zip_code=zip_code) # invoke with custom params
-    else:
-        results = get_beer() # invoke with default params
-        os.chdir("data")
-        results.to_csv('data.csv')
 
-    print(results)
+#https://stackoverflow.com/questions/45051882/valueerror-arrays-must-all-be-same-length-in-python-using-pandas-dataframe?rq=1
+
+if __name__ == "__main__":
+    
+    try:
+        if APP_ENV == "development":
+            zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
+            results = get_beer(zip_code=zip_code) # invoke with custom params
+        else:
+            results = get_beer() # invoke with default params
+            os.chdir("data")
+            results.to_csv('data.csv')
+        print(results)
+    except KeyError as KeyError:
+        print("Oops!  Please use a valid Zip Code and Try Again!")
+        exit()            
