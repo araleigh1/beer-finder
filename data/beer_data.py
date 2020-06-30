@@ -13,7 +13,6 @@ import numpy as np
 import requests
 from requests import get
 from bs4 import BeautifulSoup
-from lxml import etree
 import re
 import pandas as pd
 
