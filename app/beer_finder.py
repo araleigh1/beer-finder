@@ -35,9 +35,9 @@ def get_beer(zip_code):
     search_term = zip_code
     searchbox.click()
     searchbox.send_keys(Keys.CONTROL,"a", Keys.DELETE)
-    time.sleep(1)
-    searchbox.send_keys(search_term)
     time.sleep(2)
+    searchbox.send_keys(search_term)
+    time.sleep(3)
     searchbox.send_keys(Keys.RETURN)
     time.sleep(2)
     searchbox.send_keys(Keys.RETURN)

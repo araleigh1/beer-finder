@@ -41,10 +41,6 @@ beer_name = []
 brewery_name = []
 rating = []
 
-
-
-
-
 #table = soup.find('table')
 #table_rows = table.find_all('tr')
 #for tr in table_rows:
@@ -52,13 +48,10 @@ rating = []
   #  row = [i.text for i in td]
 #print(row)
 
-
-
 driver.quit() 
 exit()
 
 beer_div1 = soup.find_all('td', align = 'left', valign='top')
-
 
 for d in beer_div1:
     divs1 = d.find_all('a')
@@ -99,17 +92,6 @@ driver.quit()
 
 beer_df.to_csv('rate.csv')
 
-
-#print(len(beer_name))
-#print(len(brewery_name))
-#print(len(rating))
-#rate_df = pd.DataFrame({
- #   "Beer":beer_name,
-  #  "Brewery":brewery_name,
-   # "Rating":rating
-#})
-
-#print(rate_df)
    
     
 
