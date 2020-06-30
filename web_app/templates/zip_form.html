@@ -3,17 +3,19 @@
 
 {% block content %}
 
-    <h2>Local Beer Search Form/h2>
+    <h2>Local Beer Search Form</h2>
 
     <p>See All of The Best Beers in Your Neighborhood...</p>
 
     <form action="/beer_ranking" method="POST">
 
-        <label>Zip Code:</label>
-        <input type="text" name="zip_code" placeholder="20057" value="20057">
+        <label><blockquote> Zip Code:</blockquote></label>
+        <input type="text" name="zip_code" placeholder="10012" value="10012">
         <br>
 
         <button>Submit</button>
     </form>
+
+    <p>The process to find the best beer in your area may take up to a minute.  Please do not refresh browser once you submit your Zip Code.</p>
 
 {% endblock %}

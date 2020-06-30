@@ -6,12 +6,8 @@
 
     <p>Zip Code: {{ zip_code }}</p>
 
-    <!-- TODO: consider using a table instead of a list -->
-    <!-- https://www.w3schools.com/html/html_tables.asp -->
-    <!-- https://getbootstrap.com/docs/4.0/content/tables/ -->
     <ul>
     {% for table in tables %}
-        {{titles[loop.index]}}
         {{ table|safe }}
     {% endfor %}
     </ul>

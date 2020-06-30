@@ -9,18 +9,7 @@ beer_routes = Blueprint("beer_routes", __name__)
 
 @beer_routes.route("/zip_form")
 def zip_form():
-    print("-----------------------------------------------------------------------")
-    print("SEARCHING LOCAL BARS, RESTAURANTS, AND STORES...")
-    print("-----------------------------------------------------------------------")
     return render_template("zip_form.html")
-
-#df2 = get_beer(zip_code)
-
-
-#CSV_FILENAME = "data.csv"
-#csv_filepath = os.path.join("data",CSV_FILENAME)
-#df2 = pd.read_csv(csv_filepath, encoding='latin1')
-#df2.to_html(header = "true", table_id = "table")
 
 @beer_routes.route("/beer_ranking", methods=["GET", "POST"])
 def zip_forecast():
@@ -31,5 +20,6 @@ def zip_forecast():
         zip_code = request.args["zip_code"] #> {'zip_code': '20057'}
 
     results = get_beer(zip_code)
-    results.to_html(header = "true", table_id = "table")
-    return render_template("beer_ranking.html", zip_code=zip_code, tables=[results.to_html(classes='data')], titles=results.columns.values)
+    
+    results.to_html(header = "true", table_id = "table",formatters={'Website':lambda x:f'<a href="{x}">{x}</a>'}, escape=False)
+    return render_template("beer_ranking.html", zip_code=zip_code, tables=[results.to_html(classes='table table-striped table-hover thead-light')], header=True)

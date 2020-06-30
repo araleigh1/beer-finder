@@ -17,32 +17,31 @@ import numpy as np
 
 load_dotenv()
 
-
-#zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
-
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--window-size=1920x1080")
 APP_ENV = "development"
-#print("-----------------------------------------------------------------------")
-#print("SEARCHING LOCAL BARS, RESTAURANTS, AND STORES...")
-#print("-----------------------------------------------------------------------")
-
 
 def get_beer(zip_code):
-    chrome_options.add_argument("--headless")
-    driver = webdriver.Chrome(CHROMEDRIVER_PATH)
+
+    driver = webdriver.Chrome(chrome_options=chrome_options, executable_path=CHROMEDRIVER_PATH)
+    print("-----------------------------------------------------------------------")
+    print("LOADING BEERMENUS.COM")
+    print("-----------------------------------------------------------------------")
     driver.get("https://www.beermenus.com/places")
     searchbox_xpath = '//*[@id="location_address"]'
     searchbox = driver.find_element_by_xpath(searchbox_xpath)
     search_term = zip_code
     searchbox.click()
     searchbox.send_keys(Keys.CONTROL,"a", Keys.DELETE)
+    time.sleep(1)
     searchbox.send_keys(search_term)
     time.sleep(2)
     searchbox.send_keys(Keys.RETURN)
     time.sleep(2)
     searchbox.send_keys(Keys.RETURN)
-    time.sleep(3)
+    time.sleep(2)
     source = driver.page_source
     soup = BeautifulSoup(source, "html.parser")
     driver.quit()
@@ -58,23 +57,19 @@ def get_beer(zip_code):
 
     full_url = [home + x for x in url]
 
-    #print(full_url)
+    
     print("-----------------------------------------------------------------------")
-    print(str(len(full_url))+ " LOCAL BARS AND RESTAURANTS FOUND")
-    print("-----------------------------------------------------------------------")
-    print("-----------------------------------------------------------------------")
-    print("PUTTING UNIQUE BEER LIST TOGETHER.  THIS COULD TAKE A MINUTE...")
+    print("Found "+str(len(full_url))+ " LOCAL BARS AND RESTAURANTS")
     print("-----------------------------------------------------------------------")
 
     beers = []
     beer_sites = []
-    browser = webdriver.Chrome(CHROMEDRIVER_PATH)
-    options = webdriver.ChromeOptions()
 
-    for u in full_url[:5]:
+    browser = webdriver.Chrome(chrome_options=chrome_options, executable_path=CHROMEDRIVER_PATH)
+
+    for u in full_url[:1]:
         browser.get(u)
         time.sleep(2)     
-        options.add_argument('--headless')
         response = browser.page_source
         soup1 = BeautifulSoup(response, "html.parser") 
         
@@ -96,6 +91,7 @@ def get_beer(zip_code):
                         b = [e.strip() for e in name]
                         for a in b:
                             beers.append(str(a))
+
         for b in beer_div1:
             divs2 = b.find_all('li', class_ = 'pure-list-item')
             for z2 in divs2:
@@ -104,6 +100,7 @@ def get_beer(zip_code):
                     links1 = container1.find_all('a')
                     for sites1 in links1:
                         beer_sites.append(sites1['href']) 
+       
     browser.quit()
 
     beer_url = [home + x for x in beer_sites]
@@ -122,6 +119,7 @@ def get_beer(zip_code):
     total_df = pd.merge(df, df2, on='Beer', how='left')
     total_df.fillna(0, inplace=True)
     results = total_df.sort_values(by=['Rating'], ascending=False)
+    results.set_index('Beer', inplace=True)
     os.chdir("data")
     results.to_csv('data.csv')
     return results
@@ -134,6 +132,5 @@ if __name__ == "__main__":
         results = get_beer() # invoke with default params
         os.chdir("data")
         results.to_csv('data.csv')
-
 
     print(results)

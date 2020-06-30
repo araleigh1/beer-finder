@@ -1,3 +1,6 @@
+### I ONLY USED THIS TO PULL WEBSCRAPES FROM BEER RATING SITES TO POPULATE BEER_RATING CSV FILE
+
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
@@ -21,8 +24,8 @@ import pandas as pd
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 chrome_options = Options()
-
 chrome_options.add_argument("--headless")
+chrome_options.add_argument("--window-size=1920x1080")
 driver = webdriver.Chrome(CHROMEDRIVER_PATH)
 driver.get("https://www.beeradvocate.com/beer/top-new/")
 time.sleep(3)
@@ -76,10 +79,6 @@ for b in beer_div1:
             f = [g.strip() for g in brewery]
             for aa in f:
                     brewery_name.append(str(aa))
-
-
-
-
 
 
 #for rate in beer_div1:
