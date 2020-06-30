@@ -19,8 +19,8 @@ load_dotenv()
 
 CHROMEDRIVER_PATH = r"\users\araleigh\webdrivers\chromedriver.exe"
 chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--window-size=1920x1080")
+#chrome_options.add_argument("--headless")
+#chrome_options.add_argument("--window-size=1920x1080")
 APP_ENV = "development"
 
 def get_beer(zip_code):
@@ -67,7 +67,7 @@ def get_beer(zip_code):
 
     browser = webdriver.Chrome(chrome_options=chrome_options, executable_path=CHROMEDRIVER_PATH)
 
-    for u in full_url[:1]:
+    for u in full_url[:10]:
         browser.get(u)
         time.sleep(2)     
         response = browser.page_source
@@ -120,6 +120,7 @@ def get_beer(zip_code):
     total_df.fillna(0, inplace=True)
     results = total_df.sort_values(by=['Rating'], ascending=False)
     results.set_index('Beer', inplace=True)
+    results.index.names = [None]
     os.chdir("data")
     results.to_csv('data.csv')
     return results

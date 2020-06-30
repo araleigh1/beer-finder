@@ -22,4 +22,5 @@ def zip_forecast():
     results = get_beer(zip_code)
     
     results.to_html(header = "true", table_id = "table",formatters={'Website':lambda x:f'<a href="{x}">{x}</a>'}, escape=False)
-    return render_template("beer_ranking.html", zip_code=zip_code, tables=[results.to_html(classes='table table-striped table-hover thead-light')], header=True)
+    return render_template("beer_ranking.html", zip_code=zip_code, tables=[results.to_html(classes='table table-striped table-hover thead-light')], titles=results.columns.values)
+    

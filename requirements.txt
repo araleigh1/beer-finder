@@ -2,6 +2,7 @@ python-dotenv
 requests
 sendgrid==6.0.5
 Flask
+flask_table
 selenium
 beautifulsoup4
 pandas
