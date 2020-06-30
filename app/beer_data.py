@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.options import Options
 import time
-import numpy
+import numpy as np
 import requests
 from requests import get
 from bs4 import BeautifulSoup

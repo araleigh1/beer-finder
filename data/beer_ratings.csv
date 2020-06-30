@@ -1,848 +1,843 @@
-Item,Beer,Brewery,Type,Rating
-1,Permanence,Tree House Brewing Company,Stout - Sweet / Milk| 10.40%,4.52
-2,Weekend,Prairie Artisan Ales,Stout - American Imperial| 13.00%,4.41
-3,Coffee Stout 2020 - El Salvador & Guatemalan,Perennial Artisan Ales,Stout - American Imperial| 11.50%,4.44
-4,Radiant,Tree House Brewing Company,IPA - Imperial| 8.00%,4.41
-5,On The Fly,Tree House Brewing Company,IPA - Imperial| 8.10%,4.43
-6,Triple Shot - House Blend,Tree House Brewing Company,Stout - American Imperial| 9.70%,4.44
-7,Pliny For President,Russian River Brewing Company,IPA - Imperial| 8.00%,4.62
-8,Force Of Will,Tree House Brewing Company,IPA - Imperial| 8.50%,4.48
-9,Peanut Butter Cup Stout,Untitled Art,Stout - American Imperial| 12.00%,4.4
-10,Curiosity Eighty Eight,Tree House Brewing Company,IPA - Imperial| 8.10%,4.39
-11,Curiosity Eighty Seven,Tree House Brewing Company,IPA - Imperial| 8.00%,4.4
-12,Curiosity Ninety,Tree House Brewing Company,IPA - Imperial| 7.90%,4.41
-13,Special Hoperations (Three Floyds),Fat Head's Brewery & Saloon,IPA - American| 7.50%,4.26
-14,NugMo,Toppling Goliath Brewing Company,IPA - New England| 6.60%,4.22
-15,Daily Serving Mixed Berry,Trillium Brewing Company,Sour - Berliner Weisse| 3.60%,4.49
-16,Big Chocolate,Tree House Brewing Company,Stout - Sweet / Milk| 9.80%,4.42
-17,Curiosity Eighty Nine,Tree House Brewing Company,IPA - Imperial| 8.30%,4.36
-18,Curiosity Ninety Two,Tree House Brewing Company,IPA - Imperial| 8.30%,4.35
-19,Shimmer,Tree House Brewing Company,IPA - Imperial| 8.00%,4.32
-20,Legroom,Trillium Brewing Company,IPA - Imperial| 8.00%,4.46
-21,6th Anniversary,Other Half Brewing Company,IPA - Imperial| 10.00%,4.38
-22,Love,Tree House Brewing Company,Stout - Sweet / Milk| 10.30%,4.41
-23,Double Shot - Peru Estrella Divina,Tree House Brewing Company,Stout - American| 8.80%,4.31
-24,Brewer's Reserve Bourbon Pecan Kringle Stout,Central Waters Brewing Co.,Stout - American Imperial| 12.30%,4.42
-25,Blue,Tree House Brewing Company,IPA - New England| 7.10%,4.19
-26,Maple in the Wood,Side Project Brewing,Wheat Beer - Wheatwine| 13.00%,4.48
-27,Macadamia White Chocolate Stout,Untitled Art,Stout - American Imperial| 15.00%,4.34
-28,Curiosity Ninety One,Tree House Brewing Company,IPA - Imperial| 8.10%,4.26
-29,Galaxy Dry Hopped True New Englander,Trillium Brewing Company,IPA - New England| 8.10%,4.38
-30,Coconut Truffle,Trillium Brewing Company,Stout - American| 7.40%,4.28
-31,Mosaic Double Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,Pale Ale - American| 6.60%,4.38
-32,Permutation Series #6.56: Imperial Stout with Coffee,Trillium Brewing Company,Stout - American Imperial| 11.50%,4.31
-33,Double Dungeons,Half Acre Beer Company,IPA - New England| 8.00%,4.26
-34,Intrepid Orchid,Bottle Logic Brewing,Barleywine - English| 12.19%,4.51
-35,Low Brow Nobility,Short Throw Brewing,Stout - American Imperial| 12.00%,4.35
-36,Nevergonnagetit3,Trillium Brewing Company,Sour - Gose| 5.30%,4.5
-37,Peak Conditions,Stone Brewing,IPA - Imperial| 8.10%,4.13
-38,Curiosity Ninety Six,Tree House Brewing Company,IPA - New England| 8.20%,4.36
-39,Wavelength,Equilibrium Brewery,IPA - American| 6.50%,4.18
-40,Switchboard Operator,Trillium Brewing Company,IPA - Imperial| 9.50%,4.4
-41,Coffee Shop Vibes - Colombian Huila Noir,Shared Brewing,Stout - Russian Imperial| 13.00%,4.56
-42,Braincake,Parish Brewing Company,IPA - Imperial| 8.40%,4.19
-43,Galaxy Double Dry Hopped Cutting Tiles,Trillium Brewing Company,IPA - New England| 8.50%,4.33
-44,Pixel Density,Phase Three Brewing,IPA - American| 6.50%,4.23
-45,Bakery: Oatmeal Cookie,The Bruery,Stout - American Imperial| 10.20%,4.24
-46,Daily Serving: Mango & Passion Fruit,Trillium Brewing Company,Sour - Berliner Weisse| 4.00%,4.53
-47,Wanderer,Tree House Brewing Company,Lager - Helles| 5.00%,4.14
-48,Lord Octopus,Hop Butcher For The World,IPA - Imperial| 7.50%,4.26
-49,Pressed - Hazelnut,Phase Three Brewing,Porter - Imperial| 12.00%,4.4
-50,Permutation 7.04,Trillium Brewing Company,IPA - Imperial| 8.80%,4.36
-51,Iridescent,Tree House Brewing Company,IPA - Imperial,4.39
-52,Gravestones,Anchorage Brewing Company,IPA - Imperial| 9.50%,4.3
-53,Catch Hell,Half Acre Beer Company,Stout - American Imperial| 14.00%,4.49
-54,Barrel Aged Coffee Cake,Trillium Brewing Company,Stout - American Imperial| 14.40%,4.4
-55,Magnetic Fields (2019),Fort George Brewery + Public House,IPA - New England| 7.60%,4.24
-56,Curiosity Ninety Four,Tree House Brewing Company,IPA - Imperial,4.33
-57,Voluminous,Other Half Brewing Company,IPA - Imperial| 10.00%,4.34
-58,Rye On Rye Maple,Boulevard Brewing Co.,Rye Beer| 13.20%,4.29
-59,Coco-nutter Almond Chunk,Trillium Brewing Company,Stout - American Imperial| 8.90%,4.29
-60,Doomsday Device,Drekker Brewing Company,IPA - New England| 8.30%,4.22
-61,Twice The Daily Serving: Blackberry & Pomegranate,Trillium Brewing Company,Sour - Berliner Weisse| 7.00%,4.58
-62,Sunday Brunch - Cognac Vanilla Barrel-Aged,Kane Brewing Company,Porter - Imperial| 11.70%,4.57
-63,Double Motueka,Hill Farmstead Brewery,IPA - Imperial| 8.00%,4.31
-64,Vanilla Whipp,Southern Tier Brewing Company,IPA - American| 6.50%,4.18
-65,Curiosity Ninety Three,Tree House Brewing Company,IPA - Imperial| 8.20%,4.29
-66,LAX2JFK: Cancelled Flight,Other Half Brewing Company,IPA - Imperial| 10.20%,4.42
-67,Curiosity Ninety Five,Tree House Brewing Company,IPA - Imperial,4.32
-68,BA20 Vol. 1: All Monde,Oskar Blues Grill & Brew,Stout - American Imperial| 12.50%,4.27
-69,Thumbprint Nectar Ale,New Glarus Brewing Company,Lambic - Fruit,4.26
-70,Scht¸pulator,The Alchemist,Bock - Doppelbock| 8.00%,4.27
-71,Reality Maze - Banana Coconut Cream Pie Edition,Modern Times Beer,Stout - American Imperial| 12.00%,4.47
-72,Breakfast Of Leisure,Great Notion Brewing,Stout - American Imperial| 11.25%,4.28
-73,Fat Bear,Hop Butcher For The World,Stout - American Imperial| 10.50%,4.28
-74,Star Cloud,Modern Times Beer,IPA - New England| 6.80%,4.13
-75,Self Reliance: Nelson Sauvin,Hill Farmstead Brewery,IPA - American| 6.00%,4.42
-76,HDHC More Citra than All Citra,Other Half Brewing Company,IPA - Imperial| 10.50%,4.45
-77,Cryopreservation,Bottle Logic Brewing,Stout - American Imperial| 14.56%,4.41
-78,A Deeper Dish,Hop Butcher For The World,IPA - Imperial| 10.50%,4.41
-79,Gates of S'mordor - Bourbon Barrel-Aged,Westbrook Brewing Co.,Stout - American Imperial| 11.00%,4.35
-80,Double Pillow,Common Roots Brewing Company,IPA - Imperial| 8.00%,4.34
-81,Bananaversary,Other Half Brewing Company,Stout - American Imperial| 15.40%,4.43
-82,All Together,Trillium Brewing Company,IPA - American| 7.00%,4.27
-83,Time of the Chimpanzee,Burlington Beer Co.,IPA - New England| 6.50%,4.2
-84,Leaves Of Grass Series VI: Salut au Monde!,Bell's Brewery - Eccentric CafÈ & General Store,Lager - Kellerbier / Zwickelbier| 5.00%,4.06
-85,Hazy Life,Revision Brewing Company,IPA - New England| 7.75%,4.13
-86,Futurism,Tree House Brewing Company,Porter - Imperial| 8.70%,4.14
-87,Six Of Swords,Anchorage Brewing Company,IPA - Imperial| 10.50%,4.29
-88,Coffee Stout 2020 - El Salvador Variant,Perennial Artisan Ales,Stout - American Imperial| 11.50%,4.43
-89,Light Visions: Theory of Abundance,Trimtab Brewing Company,IPA - New England| 7.60%,4.35
-90,Climb the Ballmer Peak,Equilibrium Brewery,IPA - Imperial| 10.50%,4.35
-91,Pop Art,Tree House Brewing Company,Porter - Robust| 8.20%,4.09
-92,Curiosity Ninety Seven,Tree House Brewing Company,IPA - Imperial,4.42
-93,Double Dry Hopped Green City,Other Half Brewing Company,IPA - American| 7.00%,4.29
-94,Smells Like Bean Spirit - Hazelnut,Mikerphone Brewing,Stout - American| 8.00%,4.31
-95,Brighter Lights,Triple Crossing Brewing,IPA - Imperial| 8.00%,4.37
-96,Gift Receipt,Trillium Brewing Company,IPA - New England| 10.00%,4.21
-97,Dreamer,Tree House Brewing Company,Wheat Beer - Hefeweizen| 5.20%,4.24
-98,Hold the Spoon - Black Chocolate Cake,The Bruery,Stout - Sweet / Milk| 8.50%,4.28
-99,Permutation 7.03,Trillium Brewing Company,IPA - Imperial| 8.40%,4.3
-100,Barrel-Aged Resolution Break,Trillium Brewing Company,Stout - American Imperial| 15.30%,4.36
-101,400,Mayflower Brewing Company,IPA - New England| 8.00%,4.27
-102,Strawberry Orange Chantilly,Phase Three Brewing,IPA - New England| 7.20%,4.23
-103,Cherry Barrel Blossom,Firestone Walker Brewing Co.,Porter - Smoked| 11.20%,4.18
-104,Second Orbit,New Trail Brewing Company,IPA - New England| 10.10%,4.38
-105,Daily Serving - Pomegranate & Blackberry,Trillium Brewing Company,Sour - Berliner Weisse| 4.50%,4.26
-106,Spring Landscape (2020),Industrial Arts Brewing Company,Bock - Traditional| 6.00%,4.26
-107,Nocturnal Creatures,Double Nickel Brewing Company,Stout - American Imperial| 13.00%,4.31
-108,Brunch Exorcism,Clown Shoes,Stout - American Imperial| 10.20%,4.31
-109,Mutual Respeck,Short Throw Brewing,IPA - New England| 8.20%,4.22
-110,Triple Hop'd Lager,Bitburger Brauerei,Lager - India Pale Lager (IPL)| 5.80%,3.97
-111,"Daily Serving: Black Currant, Blackberry, and Boysenberry",Trillium Brewing Company,Sour - Berliner Weisse| 4.50%,4.28
-112,Commitment,Saint Arnold Brewing Company,Stout - American Imperial| 13.40%,4.14
-113,Blueberry (Sour w/ Cacao Nibs),Collective Arts Brewing,Wild Ale| 5.60%,4.09
-114,Crosspath,Allagash Brewing Company,Pale Ale - Belgian| 5.50%,4.13
-115,All 6th Anniversary Everything (Chocolate Peanut Butter Crunchee),Other Half Brewing Company,Stout - American Imperial| 15.40%,4.33
-116,Riot of the Crows,Timber Ales,IPA - New England| 7.00%,4.21
-117,Diehard Fan,Stone Brewing,IPA - American| 7.70%,4.03
-118,Presto Change-o,Hop Butcher For The World,IPA - New England| 7.50%,4.26
-119,Blood Eagle,Nightmare Brewing Company,Wild Ale| 7.50%,4.12
-120,Idyll Days Pilsner,Brewery Ommegang,Lager - European Pale| 5.00%,4.2
-121,Embed,Anchorage Brewing Company,IPA - Imperial| 8.40%,4.2
-122,DDH Mosaic Sabro Double CrËme,Phase Three Brewing,IPA - New England,4.2
-123,Permutation 7.02,Trillium Brewing Company,IPA - New England| 7.80%,4.31
-124,Smoking Buddies,Stillwater Artisanal Ales,IPA - Imperial| 8.00%,4.28
-125,HDHC All Citra Everything,Trillium Brewing Company,IPA - Imperial| 8.50%,4.28
-126,Evil Natured Robots,Drekker Brewing Company,IPA - New England| 8.00%,4.18
-127,Shipping Out of Boston (2020-),Jack's Abby Brewing,Lager - American Amber / Red| 5.30%,4.05
-128,White Out,New Trail Brewing Company,IPA - New England| 8.50%,4.25
-129,Covert Reality,Jackie O's Pub & Brewery,IPA - New England| 8.50%,4.12
-130,Olmsted,Trillium Brewing Company,IPA - New England| 7.00%,4.11
-131,Gull Wing Door,Grimm Artisanal Ales,IPA - Imperial| 8.00%,4.27
-132,Double Beezer,Old Irving Brewing Co.,IPA - New England| 8.50%,4.27
-133,"Daily Serving - Blackberry, Ginger and Lemon",Trillium Brewing Company,Sour - Berliner Weisse| 3.90%,4.33
-134,Unchecked Imagination,Phase Three Brewing,IPA - Imperial| 7.80%,4.17
-135,Daydreamless,Other Half Brewing Company,IPA - American| 8.00%,4.24
-136,Cost + 10,Other Half Brewing Company,IPA - Imperial| 8.40%,4.24
-137,Can-O-Bliss: Double IPA,Oskar Blues Grill & Brew,IPA - Imperial| 8.20%,4.02
-138,Evening Sunrise,Grimm Artisanal Ales,Stout - American Imperial| 12.00%,4.32
-139,Melty Hops,Belching Beaver Brewery,IPA - Imperial| 8.80%,4.1
-140,Blizzard of '67,Hop Butcher For The World,IPA - Imperial| 10.00%,4.21
-141,Crush Together,Finback Brewery,IPA - Imperial| 8.00%,4.28
-142,Luminescent,Tree House Brewing Company,IPA - Imperial| 8.10%,4.28
-143,Stonefroze,Hop Butcher For The World,IPA - New England| 10.50%,4.25
-144,DDH Blissful Ignorance,Lupulin Brewing,IPA - Imperial| 9.00%,4.2
-145,Social Distancing,Abomination Brewing,IPA - Imperial| 8.20%,4.22
-146,Gravity Of Surprise,Grimm Artisanal Ales,IPA - Imperial| 9.00%,4.21
-147,Dragon's Milk Reserve - Scotch Barrel-Aged With Marshmallow & Dark Chocolat,New Holland Brewing Company,Stout - American Imperial| 11.00%,4.13
-148,Crackin' Skulls,Drekker Brewing Company,IPA - Imperial| 8.00%,4.23
-149,Fanzine,Fort George Brewery + Public House,IPA - American| 6.70%,4.04
-150,Greed,Anchorage Brewing Company,IPA - Imperial| 8.40%,4.2
-151,Green Tops,Short Throw Brewing,IPA - New England| 8.00%,4.28
-152,Wonderful Complex Individual,Trillium Brewing Company,Stout - American| 7.00%,4.18
-153,Line @ Garnet,Other Half Brewing Company,IPA - American| 7.20%,4.22
-154,Burrito,Other Half Brewing Company,IPA - Imperial| 10.00%,4.12
-155,"Excuse Me, Do You Speak French Toast?",Evil Twin Brewing,Stout - American Imperial| 13.00%,4.16
-156,Outlier,Tree House Brewing Company,Kˆlsch| 4.30%,4
-157,Pressed - Reserve,Phase Three Brewing,Porter - Imperial| 12.00%,4.24
-158,Meteor Mash,Burlington Beer Co.,Stout - American Imperial| 8.00%,4.17
-159,Raspberry Chocolate Gateau,Trillium Brewing Company,Stout - American Imperial| 11.00%,4.21
-160,Hati,3 Floyds Brewing Co.,IPA - New England| 7.00%,4.03
-161,Leap Beer,Trillium Brewing Company,IPA - Imperial| 8.60%,4.15
-162,Double Dry Hopped All Together,Other Half Brewing Company,IPA - New England| 6.50%,4.11
-163,"Enigma, Galaxy, Motueka Double CrËme",Phase Three Brewing,IPA - New England,4.23
-164,Bicentennial,Maine Beer Company,IPA - Imperial| 7.00%,4.18
-165,HDHC Green City,Other Half Brewing Company,IPA - American| 7.00%,4.2
-166,Tiki Escape IPA,Stone Brewing,IPA - American| 7.70%,3.97
-167,Night Machine,Drekker Brewing Company,IPA - Imperial| 8.10%,4.17
-168,Trio of Stars,Phase Three Brewing,IPA - New England| 7.70%,4.19
-169,Whimsical Nature,Phase Three Brewing,IPA - New England| 7.50%,4.15
-170,Brewerís Reserve Call Me Old Fashioned,Central Waters Brewing Co.,Red Ale - Imperial| 12.00%,4.06
-171,Skˆll,3 Floyds Brewing Co.,Porter - Imperial| 8.50%,4.01
-172,"Surround Sound (Enigma, Moutere, Simcoe & Centennial)",Collective Arts Brewing,IPA - New England| 8.20%,4.13
-173,Gypsy Outpost - Samoas Cookie,Humble Forager Brewery,Stout - American Imperial| 12.00%,4.13
-174,Call the Plow Guy,Other Half Brewing Company,IPA - Imperial| 8.00%,4.16
-175,Son of Shakey,Maplewood Brewery & Distillery,IPA - New England| 6.50%,4.16
-176,Dopamine (Ghost 822),Adroit Theory Brewing Company,IPA - Imperial| 7.90%,4.18
-177,Kielbasa King,Hop Butcher For The World,IPA - New England| 7.50%,4.18
-178,Leaves Of Grass Series V: Song Of The Open Road,Bell's Brewery - Eccentric CafÈ & General Store,Winter Warmer| 8.50%,3.95
-179,Lips And Lungs,Short Throw Brewing,IPA - Imperial| 8.00%,4.14
-180,Head Full of Dynomite v.17: Citra & Lotus,Fremont Brewing Company,IPA - New England| 6.80%,4.12
-181,All The Things,Collective Arts Brewing,Stout - Sweet / Milk| 7.20%,4.12
-182,Tome,Half Acre Beer Company,Pale Ale - American| 5.50%,3.98
-183,Sarah Jane's Maple Sticks,Indeed Brewing Company - Minneapolis,Stout - American Imperial| 10.00%,4.17
-184,Hater Blockers,Drekker Brewing Company,IPA - Imperial| 8.00%,4.22
-185,Scrillionaire,Surly Brewing Company,Bock - Doppelbock| 8.00%,4.09
-186,Follow Us,Anchorage Brewing Company,IPA - New England| 6.40%,4.21
-187,Toon Dip,Drekker Brewing Company,IPA - Imperial| 9.20%,4.21
-188,Hop Evolution,Lord Hobo Brewing Company,IPA - New England| 8.00%,4.16
-189,Thank You (2020),Maine Beer Company,IPA - American| 6.20%,4.04
-190,My Smalltown Has Been So Much More Charming Ever Since They Put In New...,Evil Twin Brewing,IPA - New England| 10.50%,4.18
-191,"Head Full of Dynomite v. 18 Citra, Mosaic, El Dorado, and Sabro",Fremont Brewing Company,IPA - New England| 6.80%,4.09
-192,Double Art Car IPA,Saint Arnold Brewing Company,IPA - Imperial| 8.30%,4.03
-193,Mettle Alloy,Trillium Brewing Company,IPA - Imperial| 7.30%,4.2
-194,To Dream,Revision Brewing Company,IPA - New England| 7.00%,4.05
-195,Sittiní Plush,Captain Lawrence Brewing Co.,IPA - American| 8.50%,4.1
-196,Contoured View,Phase Three Brewing,IPA - New England| 7.70%,4.13
-197,Irish Coffee Stout,Flying Dog Brewery,Stout - American| 6.60%,4.11
-198,Star Jungle,Modern Times Beer,Pilsner - Bohemian / Czech| 5.50%,3.98
-199,Arvo Esky,Burlington Beer Co.,IPA - Imperial,4.19
-200,Meemaw's Famous Sticky Bun Stout,The Bruery,Stout - American Imperial| 9.20%,4.19
-201,Maximum Impulse,Grimm Artisanal Ales,IPA - American| 6.50%,4.19
-202,Sophisticated Anxiety,Foreign Objects Beer Company,IPA - New England| 6.50%,4.14
-203,Abstract Technicality,Phase Three Brewing,IPA - New England,4.14
-204,All The Golden Tickets,Pipeworks Brewing Company,Porter - American| 6.50%,4.16
-205,C,Equilibrium Brewery,Pale Ale - American| 4.80%,4.16
-206,Double Dry-Hopped Tropic-Hero,Revolution Brewing,IPA - New England| 7.60%,4.16
-207,Gunga Rao,Nightmare Brewing Company,IPA - Imperial| 8.30%,4.09
-208,Voodoo Ranger 1985 IPA,New Belgium Brewing Company,IPA - New England| 6.70%,3.93
-209,Double Vanilla Boysenberry Crunchee,Other Half Brewing Company,Sour - Berliner Weisse| 7.40%,4.1
-210,Twenty-One IPA,Summit Brewing Company,IPA - American| 7.00%,4.06
-211,Even Mo Royale,Sand City Brewing Co.,IPA - Imperial| 8.50%,4.15
-212,Icicle,New Trail Brewing Company,IPA - New England| 7.00%,4.15
-213,Double Oat IPA,Untitled Art,IPA - New England| 7.00%,4.07
-214,Swan Door,Grimm Artisanal Ales,IPA - Imperial| 8.00%,4.17
-215,Teamwork/Dreamwork,Breakside Brewery,Stout - American Imperial| 9.50%,4.14
-216,Big West,La Cumbre Brewing Co.,IPA - Imperial| 9.20%,4.1
-217,Campgrounds,Pizza Port Solana Beach,IPA - American| 7.20%,4.05
-218,Heavy Drop,Victory Brewing Company - Downingtown,IPA - New England| 7.20%,3.99
-219,Daydreams Only,Other Half Brewing Company,IPA - Imperial| 8.00%,4.15
-220,Fashionably Early,Sand City Brewing Co.,IPA - Imperial| 8.50%,4.15
-221,Mettle Alloy Batch 4,Trillium Brewing Company,IPA - New England| 7.30%,4.12
-222,Fall To Pieces - Mosaic IPA,Surly Brewing Company,IPA - American| 6.80%,4.07
-223,Pressed - Toffee,Phase Three Brewing,Porter - Imperial,4.1
-224,Kittywampus,Foreign Exchange Brewing Company,Porter - Imperial| 9.50%,4.14
-225,Cuddle Buddy,Drekker Brewing Company,IPA - New England| 8.20%,4.14
-226,Biscotti Karate,Pipeworks Brewing Company,Stout - American Imperial| 10.50%,4.08
-227,Rover,Tree House Brewing Company,Lager - Munich Dunkel| 5.20%,4.05
-228,Epicurean Series 2019 - Cherries Jubilee,Urban Artifact,Wild Ale| 7.00%,4.06
-229,Themisto,Modern Times Beer,IPA - New England| 6.50%,3.97
-230,Pearl Witbier,Tree House Brewing Company,Wheat Beer - Witbier| 5.10%,3.99
-231,Dr. Juice,Parish Brewing Company,IPA - New England| 6.00%,3.97
-232,Uncharted Waters,Barrier Brewing Company,IPA - Imperial| 7.80%,4.12
-233,Moon Wolf,Revision Brewing Company,IPA - New England| 7.00%,4.04
-234,Proxima,Modern Times Beer,IPA - New England| 7.50%,3.92
-235,Deadhead IPA Series: Drivin' That Haze,DESTIHL Brewery,IPA - New England| 7.00%,4.01
-236,Vocoder,Urban Artifact,Fruit and Field Beer| 7.60%,4.06
-237,Siren Shores,Great Lakes Brewing Co.,Farmhouse Ale - Saison| 6.90%,4.06
-238,Mandatory Training,Captain Lawrence Brewing Co.,IPA - New England| 7.50%,4.09
-239,Fashion Mullet,Lupulin Brewing,IPA - American| 6.50%,4.11
-240,Double Dry Hopped Purple Chroma,Other Half Brewing Company,IPA - American| 6.30%,4.11
-241,DM It To My Inbox,Aslin Beer Company,IPA - Imperial| 8.50%,4.11
-242,Bierwolf,Great Lakes Brewing Co.,Wheat Beer - Dunkelweizen| 6.60%,3.9
-243,Peak Bagger,Kern River Brewing Company,IPA - American| 7.10%,4.07
-244,Fancy Papers,Cigar City Brewing,IPA - New England| 6.50%,3.91
-245,Galactic Cowboy Nitro,Left Hand Brewing Company,Stout - American Imperial| 9.00%,3.92
-246,Soaring Dragon,Stone Brewing,IPA - Imperial| 8.00%,3.9
-247,Sophistry 05,Lupulin Brewing,IPA - New England| 7.50%,4.1
-248,Poetís Brunch Stout,New Holland Brewing Company,Stout - American Imperial| 9.00%,4.01
-249,Sidewalk Surfin',Pizza Port Solana Beach,IPA - Imperial| 8.00%,4.04
-250,Seaworthy,Oxbow Brewing Company,Lager - India Pale Lager (IPL)| 6.50%,4.09
-251,Kentucky Brunch Brand Stout,Toppling Goliath Brewing Company,Stout - American Imperial| 12.00%,4.9
-252,Marshmallow Handjee,3 Floyds Brewing Co.,Stout - Russian Imperial| 15.00%,4.81
-253,Hunahpu's Imperial Stout - Double Barrel Aged,Cigar City Brewing,Stout - American Imperial| 11.00%,4.79
-254,Barrel-Aged Abraxas,Perennial Artisan Ales,Stout - American Imperial| 11.00%,4.79
-255,Heady Topper,The Alchemist,IPA - New England| 8.00%,4.76
-256,Pliny The Younger,Russian River Brewing Company,IPA - Imperial| 10.25%,4.75
-257,King Julius,Tree House Brewing Company,IPA - New England| 8.30%,4.76
-258,Mornin' Delight,Toppling Goliath Brewing Company,Stout - American Imperial| 12.80%,4.75
-259,Bourbon County Brand Coffee Stout,Goose Island Beer Co.,Stout - American Imperial| 12.90%,4.73
-260,King JJJuliusss,Tree House Brewing Company,IPA - New England| 8.40%,4.77
-261,Very Hazy,Tree House Brewing Company,IPA - New England| 8.60%,4.75
-262,SR-71,Toppling Goliath Brewing Company,Stout - American Imperial| 14.00%,4.77
-263,Fundamental Observation,Bottle Logic Brewing,Stout - American Imperial| 14.30%,4.72
-264,CBS (Canadian Breakfast Stout),Founders Brewing Company,Stout - American Imperial| 11.30%,4.7
-265,Pliny The Elder,Russian River Brewing Company,IPA - Imperial| 8.00%,4.69
-266,Juice Machine,Tree House Brewing Company,IPA - New England| 8.20%,4.71
-267,Fou' Foune,Brasserie Cantillon,Lambic - Fruit| 5.50%,4.69
-268,Assassin,Toppling Goliath Brewing Company,Stout - American Imperial| 12.00%,4.7
-269,Julius,Tree House Brewing Company,IPA - New England| 6.80%,4.68
-270,Zenne Y Frontera,Brouwerij 3 Fonteinen,Lambic - Traditional| 7.00%,4.76
-271,Very Green,Tree House Brewing Company,IPA - New England| 8.60%,4.69
-272,Double Sunshine,Lawson's Finest Liquids,IPA - Imperial| 8.00%,4.68
-273,Abner,Hill Farmstead Brewery,IPA - New England| 8.20%,4.67
-274,Bourbon County Brand Stout,Goose Island Beer Co.,Stout - American Imperial| 14.70%,4.66
-275,Trappist Westvleteren 12 (XII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Quadrupel (Quad)| 10.20%,4.66
-276,Barrel Aged Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,Stout - American Imperial| 11.00%,4.74
-277,Dinner,Maine Beer Company,IPA - Imperial| 8.20%,4.66
-278,KBS (Kentucky Breakfast Stout),Founders Brewing Company,Stout - American Imperial| 12.30%,4.65
-279,JJJuliusss,Tree House Brewing Company,IPA - New England| 6.80%,4.68
-280,Parabola,Firestone Walker Brewing Co.,Stout - Russian Imperial| 13.00%,4.65
-281,Duck Duck Gooze,The Lost Abbey,Lambic - Gueuze| 7.00%,4.66
-282,Speedway Stout - Vietnamese Coffee - Bourbon-Barrel Aged,AleSmith Brewing Company,Stout - American Imperial| 12.00%,4.67
-283,Morning Wood,Funky Buddha Brewery,Porter - Imperial| 12.00%,4.66
-284,Lou Pepe - Kriek,Brasserie Cantillon,Lambic - Fruit| 5.00%,4.65
-285,Zombie Dust,3 Floyds Brewing Co.,Pale Ale - American| 6.20%,4.63
-286,Westly,Sante Adairius Rustic Ales,Wild Ale| 8.50%,4.69
-287,Fuzzy,Side Project Brewing,Wild Ale| 8.00%,4.65
-288,Ann,Hill Farmstead Brewery,Farmhouse Ale - Saison| 6.50%,4.68
-289,Bourbon County Brand Vanilla Stout,Goose Island Beer Co.,Stout - American Imperial| 14.90%,4.63
-290,Doubleganger,Tree House Brewing Company,IPA - New England| 8.20%,4.64
-291,Hunahpu's Imperial Stout,Cigar City Brewing,Stout - American Imperial| 10.20%,4.62
-292,Very GGGreennn,Tree House Brewing Company,IPA - New England| 8.30%,4.77
-293,King Sue,Toppling Goliath Brewing Company,IPA - New England| 7.80%,4.62
-294,Double CitraÆ,Hill Farmstead Brewery,IPA - New England| 8.00%,4.62
-295,Atrial Rubicite,Jester King Brewery,Wild Ale| 5.80%,4.62
-296,Headroom,Trillium Brewing Company,IPA - New England| 8.00%,4.64
-297,Double Galaxy,Hill Farmstead Brewery,IPA - New England| 8.00%,4.62
-298,Cable Car,The Lost Abbey,Wild Ale| 7.00%,4.62
-299,Supplication,Russian River Brewing Company,Wild Ale| 7.75%,4.6
-300,Citra,Kern River Brewing Company,IPA - Imperial| 8.00%,4.61
-301,Maman,Perennial Artisan Ales,Stout - American Imperial| 11.50%,4.66
-302,Framboise Du Fermier,Side Project Brewing,Farmhouse Ale - Saison| 8.00%,4.69
-303,Green,Tree House Brewing Company,IPA - New England| 7.60%,4.6
-304,Lou Pepe - Framboise,Brasserie Cantillon,Lambic - Fruit| 5.50%,4.61
-305,Aaron,Hill Farmstead Brewery,Barleywine - English| 9.00%,4.63
-306,Oude Geuze Vintage,Brouwerij 3 Fonteinen,Lambic - Gueuze| 6.00%,4.62
-307,Chemtrailmix,3 Floyds Brewing Co.,Stout - Russian Imperial| 15.00%,4.72
-308,Anabasis,Side Project Brewing,Barleywine - American| 14.00%,4.73
-309,Sip Of Sunshine,Lawson's Finest Liquids,IPA - Imperial| 8.00%,4.59
-310,Swish,Bissell Brothers Brewing Co.,IPA - New England| 8.00%,4.6
-311,Double Dry Hopped Congress Street,Trillium Brewing Company,IPA - New England| 7.20%,4.6
-312,Focal Banger,The Alchemist,IPA - New England| 7.00%,4.59
-313,Black Tuesday,The Bruery,Stout - American Imperial| 19.50%,4.59
-314,BBADL (Bourbon Barrel Aged Dark Lord Imperial Stout),3 Floyds Brewing Co.,Stout - Russian Imperial| 15.00%,4.61
-315,Society & Solitude #4,Hill Farmstead Brewery,IPA - New England| 8.00%,4.6
-316,Nectarine Premiere,de Garde Brewing,Farmhouse Ale - Saison| 7.10%,4.65
-317,Chocolate Rain,The Bruery,Stout - American Imperial| 19.60%,4.59
-318,Beatification,Russian River Brewing Company,Wild Ale| 6.00%,4.59
-319,Fourth Dementia - Bourbon Barrel-Aged,Kuhnhenn Brewing Company,Old Ale| 13.50%,4.59
-320,Doppelganger,Tree House Brewing Company,IPA - New England| 8.20%,4.59
-321,Ephraim,Hill Farmstead Brewery,IPA - New England| 10.00%,4.6
-322,Double Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,Pale Ale - American| 6.60%,4.59
-323,Haze,Tree House Brewing Company,IPA - New England| 8.20%,4.58
-324,Grande Negro Voodoo Papi - Bourbon Barrel-Aged,Voodoo Brewery,Stout - American Imperial| 12.50%,4.63
-325,It Was All A Dream,J. Wakefield Brewing,Stout - American Imperial| 17.00%,4.73
-326,V.S.O.J.,Revolution Brewing,Barleywine - English| 14.00%,4.68
-327,Triple Sunshine,Lawson's Finest Liquids,IPA - Imperial| 10.50%,4.59
-328,Triple Shot,Tree House Brewing Company,Stout - American Imperial| 9.00%,4.61
-329,Black Note Stout,Bell's Brewery - Eccentric CafÈ & General Store,Stout - American Imperial| 11.20%,4.57
-330,Keene Idea,Alpine Beer Company,IPA - Imperial| 8.88%,4.61
-331,Saint Lamvinus,Brasserie Cantillon,Lambic - Fruit| 7.00%,4.57
-332,West Ashley,Sante Adairius Rustic Ales,Wild Ale| 7.30%,4.58
-333,The Broken Truck,de Garde Brewing,Wild Ale| 5.00%,4.63
-334,Abricot Du Fermier,Side Project Brewing,Farmhouse Ale - Saison| 8.00%,4.62
-335,Beer Geek Vanilla Shake - Bourbon Barrel-Aged,Mikkeller ApS,Stout - American Imperial| 13.00%,4.6
-336,Galaxy Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,Pale Ale - American| 6.60%,4.57
-337,Flora Plum,Hill Farmstead Brewery,Farmhouse Ale - Saison| 5.00%,4.62
-338,Bourbon Paradise,Prairie Artisan Ales,Stout - American Imperial| 13.70%,4.59
-339,Saison Du Fermier,Side Project Brewing,Farmhouse Ale - Saison| 7.00%,4.58
-340,Ghost In The Machine - Double Dry-Hopped,Parish Brewing Company,IPA - New England| 8.50%,4.63
-341,Breakfast Stout,Founders Brewing Company,Stout - Oatmeal| 8.30%,4.55
-342,A Deal With The Devil,Anchorage Brewing Company,Barleywine - American| 17.30%,4.57
-343,Trappistes Rochefort 10,Brasserie de Rochefort,Quadrupel (Quad)| 11.30%,4.55
-344,Coffee Cinnamon B-Bomb,Fremont Brewing Company,Strong Ale - American| 13.00%,4.57
-345,Bourbon County Brand Barleywine Ale,Goose Island Beer Co.,Barleywine - English| 14.40%,4.55
-346,ßucaba,Firestone Walker Brewing Co.,Barleywine - English| 12.50%,4.55
-347,Bourbon Barrel Aged Plead The 5th,Dark Horse Brewing Company,Stout - Russian Imperial| 12.00%,4.55
-348,Notorious Triple IPA,Boneyard Beer Company,IPA - Imperial| 12.00%,4.57
-349,Black Gold,Central Waters Brewing Co.,Stout - American Imperial| 11.00%,4.57
-350,Sunday Brunch,Kane Brewing Company,Porter - Imperial| 9.20%,4.57
-351,Alter Ego,Tree House Brewing Company,IPA - New England| 6.80%,4.55
-352,Pseudo Sue - Double Dry-Hopped,Toppling Goliath Brewing Company,Pale Ale - American| 6.80%,4.56
-353,Beyond Good And Evil,Hill Farmstead Brewery,Stout - American Imperial| 10.00%,4.57
-354,Miami Madness,J. Wakefield Brewing,Sour - Berliner Weisse| 5.50%,4.59
-355,Society & Solitude #5,Hill Farmstead Brewery,IPA - New England| 8.10%,4.55
-356,The Rusty Nail,Fremont Brewing Company,Stout - Oatmeal| 14.50%,4.57
-357,Last Buffalo In The Park,Funky Buddha Brewery,Porter - Imperial| 11.50%,4.56
-358,Cutting Tiles (Mosaic),Trillium Brewing Company,IPA - New England| 8.50%,4.55
-359,BlÂbÊr Lambik,Brasserie Cantillon,Lambic - Fruit| 5.00%,4.56
-360,Samuel Adams Utopias,Boston Beer Company (Samuel Adams),Strong Ale - American| 28.00%,4.54
-361,Pirate Bomb!,Prairie Artisan Ales,Stout - American Imperial| 15.00%,4.54
-362,Double Shot,Tree House Brewing Company,Stout - American| 7.60%,4.55
-363,Speedway Stout - Bourbon Barrel-Aged,AleSmith Brewing Company,Stout - American Imperial| 12.00%,4.54
-364,A Deal With The Devil - Double Oak-Aged,Anchorage Brewing Company,Barleywine - American| 17.00%,4.73
-365,Mexican Brunch,Kane Brewing Company,Porter - Imperial| 9.20%,4.57
-366,Pugachev Royale,Hangar 24 Brewing,Stout - Russian Imperial| 14.80%,4.6
-367,The Peach,de Garde Brewing,Wild Ale| 7.30%,4.61
-368,Great,Alpine Beer Company,Barleywine - American| 14.00%,4.56
-369,Black Tuesday - Reserve,The Bruery,Stout - American Imperial| 20.50%,4.61
-370,Grey Monday,The Bruery,Stout - American Imperial| 19.90%,4.54
-371,Bomb!,Prairie Artisan Ales,Stout - American Imperial| 13.00%,4.53
-372,Wide Awake It's Morning,Funky Buddha Brewery,Porter - Imperial| 10.00%,4.55
-373,Pirate Paradise,Prairie Artisan Ales,Stout - American Imperial| 13.00%,4.6
-374,Consecration,Russian River Brewing Company,Wild Ale| 10.00%,4.53
-375,Parabajava,Firestone Walker Brewing Co.,Stout - Russian Imperial| 14.00%,4.55
-376,Framboos,Brouwerij 3 Fonteinen,Lambic - Fruit| 5.00%,4.55
-377,Gggreennn!,Tree House Brewing Company,IPA - New England| 7.50%,4.58
-378,Hommage,Brouwerij 3 Fonteinen,Lambic - Fruit| 6.00%,4.54
-379,In Perpetuity,Tree House Brewing Company,IPA - New England| 6.70%,4.54
-380,Scaled Way Up,Trillium Brewing Company,IPA - New England| 8.00%,4.56
-381,Pseudo Sue,Toppling Goliath Brewing Company,Pale Ale - American| 5.80%,4.52
-382,Abrasive Ale,Surly Brewing Company,IPA - Imperial| 9.20%,4.52
-383,Mocha Wednesday,The Bruery,Stout - American Imperial| 19.90%,4.53
-384,Permanent Funeral,3 Floyds Brewing Co.,IPA - Imperial| 10.50%,4.52
-385,Double Dry Hopped Double Mosaic Dream,Other Half Brewing Company,IPA - New England| 8.50%,4.55
-386,Moment Of Clarity,Tree House Brewing Company,Stout - Sweet / Milk| 7.70%,4.56
-387,4th Anniversary,Other Half Brewing Company,IPA - New England| 10.00%,4.61
-388,3rd Anniversary Imperial IPA,Other Half Brewing Company,IPA - New England| 10.00%,4.58
-389,Kaggen! Stormaktsporter,N‰rke Kulturbryggeri AB,Stout - Russian Imperial| 10.00%,4.62
-390,Imperial Biscotti Break - Bourbon Barrel-Aged,Evil Twin Brewing,Stout - American Imperial| 11.50%,4.52
-391,Montmorency Vs Balaton,Jester King Brewery,Wild Ale| 6.10%,4.53
-392,Darkness,Surly Brewing Company,Stout - Russian Imperial| 12.00%,4.51
-393,No Rules,Perrin Brewing Co.,Porter - Imperial| 15.00%,4.52
-394,Everett Porter,Hill Farmstead Brewery,Porter - American| 7.50%,4.51
-395,Lou Pepe - Gueuze,Brasserie Cantillon,Lambic - Gueuze| 5.00%,4.52
-396,Heavy Mettle,Trillium Brewing Company,IPA - New England| 9.30%,4.52
-397,Congress Street IPA,Trillium Brewing Company,IPA - New England| 7.20%,4.51
-398,Susan,Hill Farmstead Brewery,IPA - New England| 6.20%,4.51
-399,Speedway Stout - Vietnamese Coffee,AleSmith Brewing Company,Stout - American Imperial| 12.00%,4.51
-400,Abt 12,Brouwerij St. Bernardus NV,Quadrupel (Quad)| 10.00%,4.5
-401,Upper Case,Trillium Brewing Company,IPA - New England| 9.00%,4.52
-402,Society & Solitude #6,Hill Farmstead Brewery,IPA - New England| 8.10%,4.52
-403,The Abyss,Deschutes Brewery,Stout - American Imperial| 11.40%,4.5
-404,Hold On To Sunshine,Tree House Brewing Company,Stout - Sweet / Milk| 7.60%,4.54
-405,Double Dry Hopped Mylar Bags,Other Half Brewing Company,IPA - New England| 8.50%,4.54
-406,Double Stack,Great Notion Brewing,Stout - American Imperial| 11.00%,4.53
-407,Bourbon Barrel Aged Dark Star: Coffee Edition,Fremont Brewing Company,Stout - Oatmeal| 13.60%,4.52
-408,Double Dry Hopped Melcher Street,Trillium Brewing Company,IPA - New England| 7.20%,4.51
-409,Mosaic Dry Hopped Fort Point,Trillium Brewing Company,Pale Ale - American| 6.60%,4.51
-410,Abraxas,Perennial Artisan Ales,Stout - American Imperial| 11.50%,4.5
-411,Cutting Tiles (Galaxy),Trillium Brewing Company,IPA - New England| 8.50%,4.53
-412,Oude Geuze Golden Blend,Brouwerij 3 Fonteinen,Lambic - Gueuze| 7.50%,4.51
-413,DFPF,J. Wakefield Brewing,Sour - Berliner Weisse| 3.50%,4.54
-414,Trappist Westvleteren 8 (VIII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Dubbel| 8.00%,4.5
-415,Last Snow,Funky Buddha Brewery,Porter - American| 6.40%,4.5
-416,Saison Bernice,Sante Adairius Rustic Ales,Farmhouse Ale - Saison| 6.50%,4.51
-417,Hopslam Ale,Bell's Brewery - Eccentric CafÈ & General Store,IPA - Imperial| 10.00%,4.49
-418,Double Dry Hopped Double Mosaic Daydream,Other Half Brewing Company,IPA - New England| 8.50%,4.54
-419,Genealogy Of Morals - Bourbon Barrel-Aged,Hill Farmstead Brewery,Stout - American Imperial| 10.70%,4.52
-420,Apple Brandy Barrel Noir,Prairie Artisan Ales,Stout - American Imperial| 12.00%,4.5
-421,Double Nelson,Hill Farmstead Brewery,IPA - New England| 8.00%,4.54
-422,Ground State,Bottle Logic Brewing,Stout - American Imperial| 13.40%,4.52
-423,Oude Geuze CuvÈe Armand & Gaston,Brouwerij 3 Fonteinen,Lambic - Gueuze| 6.50%,4.52
-424,Damon (Bourbon Barrel Aged),Hill Farmstead Brewery,Stout - Russian Imperial| 10.50%,4.51
-425,Bad Boy,Alpine Beer Company,IPA - Imperial| 9.00%,4.52
-426,La Fosse,Side Project Brewing,Wild Ale| 8.00%,4.54
-427,Double Barrel Jesus,Evil Twin Brewing,Stout - American Imperial| 12.00%,4.51
-428,Impermanence,Tree House Brewing Company,Stout - Sweet / Milk| 9.00%,4.53
-429,Stickee Monkee,Firestone Walker Brewing Co.,Quadrupel (Quad)| 12.50%,4.49
-430,Aurelian Lure,Jester King Brewery,Wild Ale| 5.40%,4.51
-431,Crusher,The Alchemist,IPA - New England| 8.00%,4.49
-432,Fuzzy Baby Ducks,New England Brewing Co.,IPA - New England| 6.20%,4.5
-433,Maple Bacon Coffee Porter,Funky Buddha Brewery,Porter - American| 6.40%,4.49
-434,Adam From The Wood,Hair Of The Dog Brewing Company / Brewery And Tasting Room,Old Ale| 12.00%,4.5
-435,Sosus,Toppling Goliath Brewing Company,IPA - Imperial| 7.80%,4.49
-436,Barrel-Aged Silhouette,Lift Bridge Brewery,Stout - Russian Imperial| 11.00%,4.52
-437,Mexican Cake - Maple Bourbon Barrel-Aged,Westbrook Brewing Co.,Stout - American Imperial| 10.20%,4.61
-438,BDCS,Ozark Beer Co.,Stout - American Imperial| 10.20%,4.52
-439,Fundamental Forces,Bottle Logic Brewing,Stout - American Imperial| 16.20%,4.59
-440,Matt,Hair Of The Dog Brewing Company / Brewery And Tasting Room,Strong Ale - American| 11.50%,4.5
-441,Gueuze 100% Lambic,Brasserie Cantillon,Lambic - Gueuze| 5.00%,4.48
-442,Temptation,Russian River Brewing Company,Wild Ale| 7.50%,4.48
-443,Barrel Aged Bomb!,Prairie Artisan Ales,Stout - American Imperial| 14.70%,4.49
-444,Leche Borracho,Bottle Logic Brewing,Stout - American Imperial| 11.00%,4.52
-445,Clare's Thirsty Ale,Haymarket Beer Co. Pub & Brewery,Stout - American Imperial| 12.50%,4.54
-446,Ten FIDY - Bourbon Barrel Aged,Oskar Blues Grill & Brew,Stout - American Imperial| 12.50%,4.48
-447,Leaner,Casey Brewing & Blending,Farmhouse Ale - Saison| 8.00%,4.58
-448,Mother Of All Storms,Pelican Pub & Brewery,Barleywine - English| 14.00%,4.48
-449,Citraquench'l,Heist Brewery,IPA - New England| 7.10%,4.54
-450,Coffee Abraxas,Perennial Artisan Ales,Stout - American Imperial| 10.00%,4.5
-451,Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,Stout - American Imperial| 11.50%,4.55
-452,Double Dry Hopped All Citra Everything,Other Half Brewing Company,IPA - New England| 8.50%,4.51
-453,Bodhi,Columbus Brewing Company,IPA - Imperial| 8.50%,4.48
-454,Kiwi Herman,Alpine Beer Company,Wild Ale| 7.00%,4.54
-455,Rodenbach CaractËre Rouge,Brouwerij Rodenbach N.V.,Sour - Flanders Red Ale| 7.00%,4.48
-456,Emerald Grouper,Pipeworks Brewing Company,IPA - Imperial| 9.50%,4.49
-457,"Somewhere, Something Incredible Is Waiting To Be Known",Tree House Brewing Company,Stout - Sweet / Milk| 7.90%,4.52
-458,Appervation,Jackie O's Pub & Brewery,Stout - American Imperial| 15.00%,4.54
-459,Birth Of Tragedy,Hill Farmstead Brewery,Porter - Imperial| 9.00%,4.48
-460,Flora,Hill Farmstead Brewery,Farmhouse Ale - Saison| 4.80%,4.49
-461,Bourbon Barrel Oro Negro,Jackie O's Pub & Brewery,Stout - American Imperial| 12.10%,4.5
-462,Medianoche - Coconut,WeldWerks Brewing Co.,Stout - American Imperial| 14.10%,4.61
-463,CaffË Americano,Cigar City Brewing,Stout - American Imperial| 12.00%,4.48
-464,Tweak,Avery Brewing Company,Stout - American Imperial| 16.00%,4.47
-465,Hop JuJu Imperial IPA,Fat Head's Brewery & Saloon,IPA - Imperial| 9.00%,4.47
-466,Juicy,Hill Farmstead Brewery,Farmhouse Ale - Saison| 7.40%,4.49
-467,Bourbon Barrel Black Maple,Jackie O's Pub & Brewery,Porter - Imperial| 11.00%,4.48
-468,Second Fiddle,Fiddlehead Brewing Company,IPA - Imperial| 8.20%,4.47
-469,Ghost In The Machine,Parish Brewing Company,IPA - New England| 8.50%,4.48
-470,Expedition Stout - Bourbon Barrel-Aged,Bell's Brewery - Eccentric CafÈ & General Store,Stout - Russian Imperial| 13.40%,4.49
-471,Fort Point Pale Ale,Trillium Brewing Company,Pale Ale - American| 6.60%,4.47
-472,Imperial Eclipse Stout - Elijah Craig (12 Year),FiftyFifty Brewing Co.,Stout - American Imperial| 11.90%,4.47
-473,Sang Noir,Cascade Brewing / Raccoon Lodge & Brewpub,Wild Ale| 9.30%,4.47
-474,Coconut B-Bomb,Fremont Brewing Company,Strong Ale - American| 13.00%,4.53
-475,Vicinity,Trillium Brewing Company,IPA - New England| 8.00%,4.47
-476,Bourbon Barrel Champion Ground,Jackie O's Pub & Brewery,Stout - American Imperial| 12.00%,4.49
-477,Schaarbeekse Kriek,Brouwerij 3 Fonteinen,Lambic - Fruit| 6.00%,4.48
-478,Peche 'n Brett,Logsdon Farmhouse Ales,Farmhouse Ale - Saison| 10.00%,4.47
-479,Fyodor,Stone Brewing,Stout - Russian Imperial| 13.10%,4.47
-480,Space Trace,Bottle Logic Brewing,Stout - American Imperial| 11.10%,4.51
-481,Coconut Vibes,Shared Brewing,Stout - Russian Imperial| 13.00%,4.65
-482,Thicket,Side Project Brewing,Wild Ale| 6.00%,4.53
-483,Coolship Red,Allagash Brewing Company,Lambic - Fruit| 5.70%,4.48
-484,Cellarman Barrel Aged Saison,Sante Adairius Rustic Ales,Farmhouse Ale - Saison| 6.50%,4.49
-485,All That Is And All That Ever Will Be,Tree House Brewing Company,Stout - Sweet / Milk| 6.50%,4.5
-486,Dorothy (Wine Barrel Aged),Hill Farmstead Brewery,Farmhouse Ale - Saison| 7.00%,4.54
-487,Darkstar November,Bottle Logic Brewing,Stout - Russian Imperial| 13.70%,4.48
-488,Black & Wild,Side Project Brewing,Wild Ale| 10.00%,4.54
-489,Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,Wheat Beer - Hefeweizen| 5.40%,4.45
-490,Mastermind,Fiddlehead Brewing Company,IPA - New England| 8.10%,4.46
-491,Nelson,Alpine Beer Company,IPA - American| 7.00%,4.45
-492,Flora - Blueberry,Hill Farmstead Brewery,Farmhouse Ale - Saison,4.52
-493,Blanc De Blancs,Side Project Brewing,BiËre de Champagne / BiËre Brut| 10.00%,4.51
-494,Axe Man,Surly Brewing Company,IPA - American| 7.20%,4.45
-495,Double Dry Hopped Sleeper Street,Trillium Brewing Company,IPA - New England| 7.20%,4.46
-496,Dragonsaddle,Hoof Hearted Brewing,IPA - New England| 11.50%,4.5
-497,Double Orange Starfish,Aslin Beer Company,IPA - New England| 8.30%,4.49
-498,Enjoy By IPA,Stone Brewing,IPA - Imperial| 9.40%,4.44
-499,Scaled Up,Trillium Brewing Company,IPA - New England| 8.00%,4.46
-500,Sure Bet,Pipeworks Brewing Company,IPA - Imperial| 9.50%,4.47
-501,Vigneronne,Brasserie Cantillon,Lambic - Fruit| 5.00%,4.44
-502,Exponential Hoppiness,Alpine Beer Company,IPA - Imperial| 11.00%,4.44
-503,Dreadnaught IPA,3 Floyds Brewing Co.,IPA - Imperial| 9.50%,4.42
-504,PÈchÈ Mortel,Brasserie Dieu du Ciel!,Stout - American Imperial| 9.50%,4.42
-505,Raspberry Eisbock,Kuhnhenn Brewing Company,Bock - Eisbock| 15.50%,4.43
-506,Wisconsin Belgian Red,New Glarus Brewing Company,Fruit and Field Beer| 4.00%,4.42
-507,Bourbon Barrel-Aged Barley Wine,Kuhnhenn Brewing Company,Barleywine - English| 14.50%,4.44
-508,Oude Geuze,Brouwerij 3 Fonteinen,Lambic - Gueuze| 6.00%,4.42
-509,Rodenbach Alexander,Brouwerij Rodenbach N.V.,Sour - Flanders Red Ale| 5.60%,4.43
-510,Raspberry Tart,New Glarus Brewing Company,Fruit and Field Beer| 4.00%,4.41
-511,Speedway Stout,AleSmith Brewing Company,Stout - American Imperial| 12.00%,4.4
-512,Kriek 100% Lambic,Brasserie Cantillon,Lambic - Fruit| 5.00%,4.39
-513,Imperial Stout,Founders Brewing Company,Stout - Russian Imperial| 10.50%,4.38
-514,Blind Pig,Russian River Brewing Company,IPA - American| 6.25%,4.38
-515,Ayinger Celebrator,Ayinger Privatbrauerei,Bock - Doppelbock| 6.70%,4.37
-516,Arctic Devil Barley Wine,Midnight Sun Brewing Co.,Barleywine - English| 13.20%,4.38
-517,Iris,Brasserie Cantillon,Lambic - Traditional| 5.00%,4.37
-518,HefeWeizen,Live Oak Brewing Company,Wheat Beer - Hefeweizen| 5.30%,4.37
-519,La Fin Du Monde,Unibroue,Tripel| 9.00%,4.36
-520,Trappistes Rochefort 8,Brasserie de Rochefort,Strong Ale - Belgian Dark| 9.20%,4.36
-521,CuvÈe Saint-Gilloise,Brasserie Cantillon,Lambic - Traditional| 5.50%,4.37
-522,Dark Lord Imperial Stout,3 Floyds Brewing Co.,Stout - Russian Imperial| 15.00%,4.36
-523,Schneider Weisse Tap 6 Unser Aventinus,Weisses Br‰uhaus G. Schneider & Sohn GmbH,Bock - Weizenbock| 8.20%,4.35
-524,RosÈ De Gambrinus,Brasserie Cantillon,Lambic - Fruit| 5.00%,4.35
-525,Pure Hoppiness,Alpine Beer Company,IPA - Imperial| 8.00%,4.34
-526,Sanctification,Russian River Brewing Company,Brett Beer| 4.80%,4.34
-527,Gouden Carolus CuvÈe Van De Keizer Imperial Dark,Brouwerij Het Anker,Strong Ale - Belgian Dark| 11.00%,4.34
-528,Old Rasputin,North Coast Brewing Co.,Stout - Russian Imperial| 9.00%,4.33
-529,Nugget Nectar,Trˆegs Brewing Company,Red Ale - Imperial| 7.50%,4.33
-530,Grande RÈserve (Blue),BiËres de Chimay,Strong Ale - Belgian Dark| 9.00%,4.33
-531,Westmalle Trappist Tripel,Brouwerij Westmalle,Tripel| 9.50%,4.33
-532,Rodenbach Grand Cru,Brouwerij Rodenbach N.V.,Sour - Flanders Red Ale| 6.00%,4.33
-533,FantÙme Saison,Brasserie FantÙme,Farmhouse Ale - Saison| 8.00%,4.33
-534,Masala Mama India Pale Ale,Minneapolis Town Hall Brewery,IPA - American| 6.00%,4.33
-535,Oude Kriek,Brouwerij 3 Fonteinen,Lambic - Fruit| 6.50%,4.32
-536,Girardin Gueuze 1882 (Black Label),Brouwerij Girardin,Lambic - Gueuze| 5.00%,4.32
-537,Curieux,Allagash Brewing Company,Tripel| 11.00%,4.31
-538,Harvest Ale (Limited Edition),J.W. Lees & Co (Brewers) Ltd,Barleywine - English| 11.50%,4.31
-539,90 Minute IPA,Dogfish Head Craft Brewery,IPA - Imperial| 9.00%,4.3
-540,Two Hearted Ale,Bell's Brewery - Eccentric CafÈ & General Store,IPA - American| 7.00%,4.3
-541,Andechser Doppelbock Dunkel,Klosterbrauerei Andechs,Bock - Doppelbock| 7.10%,4.31
-542,Tripel Karmeliet,Brouwerij Bosteels,Tripel| 8.40%,4.3
-543,Wake-n-Bake Coffee Oatmeal Imperial Stout,Terrapin Beer Company,Stout - Oatmeal| 9.40%,4.3
-544,Fourth Dementia (4D),Kuhnhenn Brewing Company,Old Ale| 13.50%,4.31
-545,Duvel,Brouwerij Duvel Moortgat NV,Strong Ale - Belgian Pale| 8.50%,4.29
-546,Double Bastard Ale,Arrogant Consortia,Strong Ale - American| 11.00%,4.29
-547,Expedition Stout,Bell's Brewery - Eccentric CafÈ & General Store,Stout - Russian Imperial| 10.50%,4.29
-548,Schneider Aventinus Eisbock,Weisses Br‰uhaus G. Schneider & Sohn GmbH,Bock - Eisbock| 12.00%,4.29
-549,Adam,Hair Of The Dog Brewing Company / Brewery And Tasting Room,Old Ale| 10.00%,4.29
-550,Oude Gueuze,Hanssens Artisanaal bvba,Lambic - Gueuze| 6.00%,4.29
-551,World Wide Stout,Dogfish Head Craft Brewery,Stout - American Imperial| 18.00%,4.28
-552,Oak Aged Yeti Imperial Stout,Great Divide Brewing Company,Stout - American Imperial| 9.50%,4.28
-553,La Folie,New Belgium Brewing Company,Sour - Flanders Oud Bruin| 7.00%,4.28
-554,Porter,Founders Brewing Company,Porter - Robust| 6.50%,4.27
-555,Gulden Draak,Brouwerij Van Steenberge N.V.,Strong Ale - Belgian Dark| 10.50%,4.27
-556,Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Wheat Beer - Dunkelweizen| 5.30%,4.27
-557,Brewer's Reserve Bourbon Barrel Stout,Central Waters Brewing Co.,Stout - American Imperial| 10.80%,4.27
-558,Trappist Westvleteren Blond,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Blonde Ale - Belgian| 5.80%,4.28
-559,Alpha King,3 Floyds Brewing Co.,Pale Ale - American| 6.66%,4.26
-560,Edmund Fitzgerald,Great Lakes Brewing Co.,Porter - American| 6.00%,4.26
-561,Trois Pistoles,Unibroue,Strong Ale - Belgian Dark| 9.00%,4.26
-562,Harvest Ale,Founders Brewing Company,IPA - American| 7.60%,4.26
-563,Tripel,Brouwerij St. Bernardus NV,Tripel| 8.00%,4.26
-564,Courage Imperial Russian Stout,Eagle Brewery,Stout - Russian Imperial| 10.00%,4.27
-565,Burton Baton,Dogfish Head Craft Brewery,IPA - Imperial| 10.00%,4.25
-566,Maharaja,Avery Brewing Company,IPA - Imperial| 10.20%,4.25
-567,Fred From The Wood,Hair Of The Dog Brewing Company / Brewery And Tasting Room,Strong Ale - American| 10.00%,4.27
-568,Cuvee De Tomme,The Lost Abbey,Wild Ale| 11.00%,4.25
-569,West Coast IPA,Green Flash Brewing Co.,IPA - Imperial| 8.10%,4.24
-570,Union Jack IPA,Firestone Walker Brewing Co.,IPA - American| 7.00%,4.24
-571,Orval Trappist Ale,Brasserie d'Orval S.A.,Pale Ale - Belgian| 6.90%,4.24
-572,Flower Power India Pale Ale,Ithaca Beer Company,IPA - American| 7.20%,4.24
-573,Hop Rod Rye,Bear Republic Brewing Co.,Rye Beer| 8.00%,4.24
-574,IPA,AleSmith Brewing Company,IPA - American| 7.25%,4.24
-575,Racer X Double IPA,Bear Republic Brewing Co.,IPA - Imperial| 8.30%,4.24
-576,Behemoth,3 Floyds Brewing Co.,Barleywine - American| 10.50%,4.24
-577,Oatmeal Stout,Samuel Smith Old Brewery (Tadcaster),Stout - Oatmeal| 5.00%,4.23
-578,OAKED Arrogant Bastard Ale,Arrogant Consortia,Strong Ale - American| 7.20%,4.23
-579,Apex,Bear Republic Brewing Co.,IPA - Imperial| 8.25%,4.24
-580,La Chouffe,Brasserie d'Achouffe,Strong Ale - Belgian Pale| 8.00%,4.23
-581,Old Ruffian,Great Divide Brewing Company,Barleywine - American| 10.20%,4.23
-582,Thomas Hooker Liberator Doppelbock,Thomas Hooker Brewing Company,Bock - Doppelbock| 8.50%,4.24
-583,Stone IPA,Stone Brewing,IPA - American| 6.90%,4.22
-584,Yeti,Great Divide Brewing Company,Stout - American Imperial| 9.50%,4.22
-585,Maudite,Unibroue,Dubbel| 8.00%,4.22
-586,Duchesse De Bourgogne,Brouwerij Verhaeghe,Sour - Flanders Red Ale| 6.20%,4.22
-587,Fuller's Vintage Ale,Fuller Smith & Turner PLC,Old Ale| 8.50%,4.22
-588,Stille Nacht,Brouwerij De Dolle Brouwers,Strong Ale - Belgian Pale| 12.00%,4.22
-589,Gumballhead,3 Floyds Brewing Co.,Wheat Beer - American Pale| 5.60%,4.21
-590,Saison Dupont,Brasserie Dupont sprl,Farmhouse Ale - Saison| 6.50%,4.21
-591,Obsidian Stout,Deschutes Brewery,Stout - American| 6.40%,4.21
-592,Korbinian,Bayerische Staatsbrauerei Weihenstephan,Bock - Doppelbock| 7.40%,4.21
-593,Fuller's London Porter,Fuller Smith & Turner PLC,Porter - English| 5.40%,4.21
-594,Double IPA,AleSmith Brewing Company,IPA - Imperial| 8.50%,4.21
-595,Hop 15,Port Brewing,IPA - Imperial| 11.00%,4.21
-596,Abbaye Des Rocs Grand Cru Belgian Special Brown,Brasserie de l'Abbaye des Rocs s.a.,Strong Ale - Belgian Dark| 9.00%,4.22
-597,Aphrodisiaque,Brasserie Dieu du Ciel!,Stout - American| 6.50%,4.21
-598,Goudenband,Brouwerij Liefmans,Sour - Flanders Oud Bruin| 8.00%,4.21
-599,Racer 5,Bear Republic Brewing Co.,IPA - American| 7.50%,4.2
-600,Oerbier,Brouwerij De Dolle Brouwers,Strong Ale - Belgian Dark| 9.00%,4.21
-601,Red's Rye IPA,Founders Brewing Company,Rye Beer| 6.60%,4.2
-602,Blackout Stout,Great Lakes Brewing Co.,Stout - Russian Imperial| 9.90%,4.2
-603,Westmalle Trappist Dubbel,Brouwerij Westmalle,Dubbel| 7.00%,4.2
-604,Abbaye Des Rocs [Brasserie Des Rocs Brune],Brasserie de l'Abbaye des Rocs s.a.,Strong Ale - Belgian Dark| 9.00%,4.22
-605,Kriek De Ranke,Brouwerij Brasserie De Ranke,Lambic - Fruit| 7.00%,4.22
-606,Terrible,Unibroue,Quadrupel (Quad)| 10.50%,4.2
-607,Cadillac Mountain Stout,Atlantic Brewing Company,Stout - Irish Dry| 6.70%,4.2
-608,Black Butte Porter,Deschutes Brewery,Porter - American| 5.20%,4.19
-609,Abbey Ale,Brewery Ommegang,Dubbel| 8.20%,4.19
-610,Chocolate Stout,Rogue Ales,Stout - American| 5.80%,4.19
-611,Taddy Porter,Samuel Smith Old Brewery (Tadcaster),Porter - English| 5.00%,4.19
-612,La Trappe Quadrupel (Koningshoeven / Dominus),Bierbrouwerij De Koningshoeven B.V.,Quadrupel (Quad)| 10.00%,4.19
-613,Oud Beersel Oude Kriek Vieille,Brouwerij Oud Beersel,Lambic - Fruit| 6.50%,4.2
-614,Wit,Brouwerij St. Bernardus NV,Wheat Beer - Witbier| 5.50%,4.19
-615,Thumbprint Enigma,New Glarus Brewing Company,Sour - Flanders Oud Bruin| 5.50%,4.19
-616,Wee Heavy,AleSmith Brewing Company,Scotch Ale / Wee Heavy| 10.00%,4.19
-617,Arrogant Bastard Ale,Arrogant Consortia,Strong Ale - American| 7.20%,4.18
-618,Boon Oude Kriek Mariage Parfait,Brouwerij Boon,Lambic - Fruit| 8.00%,4.2
-619,120 Minute IPA,Dogfish Head Craft Brewery,IPA - Imperial| 18.00%,4.18
-620,Three Philosophers,Brewery Ommegang,Quadrupel (Quad)| 9.70%,4.18
-621,Hennepin,Brewery Ommegang,Farmhouse Ale - Saison| 7.70%,4.18
-622,White,Allagash Brewing Company,Wheat Beer - Witbier| 5.10%,4.18
-623,Sinebrychoff Porter,Oy Sinebrychoff Ab,Porter - Baltic| 7.20%,4.19
-624,Insanity,Weyerbacher Brewing Co.,Barleywine - English| 13.30%,4.18
-625,Ayinger Br‰uweisse,Ayinger Privatbrauerei,Wheat Beer - Hefeweizen| 5.10%,4.18
-626,Smoked Porter,Alaskan Brewing Co.,Porter - Smoked| 6.50%,4.18
-627,Aecht Schlenkerla Rauchbier Urbock,Brauerei Heller-Trum / Schlenkerla,Lager - Rauchbier| 6.60%,4.18
-628,Avec Les Bons Voeux,Brasserie Dupont sprl,Farmhouse Ale - Saison| 9.50%,4.18
-629,Doggie Claws,Hair Of The Dog Brewing Company / Brewery And Tasting Room,Barleywine - American| 11.50%,4.18
-630,Celebration Fresh Hop IPA,Sierra Nevada Brewing Co.,IPA - American| 6.80%,4.17
-631,Moinette Blond,Brasserie Dupont sprl,Strong Ale - Belgian Pale| 8.50%,4.19
-632,Bigfoot,Sierra Nevada Brewing Co.,Barleywine - American| 9.60%,4.17
-633,Black Chocolate Stout,Brooklyn Brewery,Stout - Russian Imperial| 10.00%,4.17
-634,PremiËre (Red),BiËres de Chimay,Dubbel| 7.00%,4.17
-635,Traquair Jacobite,Traquair House Brewery,Scotch Ale / Wee Heavy| 8.00%,4.18
-636,Kasteel Donker,Brouwerij Van Honsebrouck N.V.,Quadrupel (Quad)| 11.00%,4.18
-637,Zonker Stout,Snake River Brewing Company & Brewpub,Stout - Foreign / Export| 6.00%,4.19
-638,Ipswich Oatmeal Stout,Ipswich Ale Brewery,Stout - Oatmeal| 7.00%,4.18
-639,Northern Hemisphere Harvest Wet Hop IPA,Sierra Nevada Brewing Co.,IPA - American| 6.70%,4.17
-640,Don De Dieu,Unibroue,Tripel| 9.00%,4.17
-641,Double Crooked Tree IPA,Dark Horse Brewing Company,IPA - Imperial| 12.00%,4.17
-642,Trappistes Rochefort 6,Brasserie de Rochefort,Dubbel| 7.50%,4.17
-643,Prior 8,Brouwerij St. Bernardus NV,Dubbel| 8.00%,4.17
-644,Corsendonk Christmas Ale,Brouwerij Corsendonk,Strong Ale - Belgian Dark| 8.10%,4.17
-645,Traquair House Ale,Traquair House Brewery,Scotch Ale / Wee Heavy| 7.20%,4.17
-646,Delirium Tremens,Brouwerij Huyghe,Strong Ale - Belgian Pale| 8.50%,4.16
-647,Boskeun,Brouwerij De Dolle Brouwers,Strong Ale - Belgian Pale| 10.00%,4.18
-648,Tripel (White),BiËres de Chimay,Tripel| 8.00%,4.16
-649,Dulle Teve (Mad Bitch),Brouwerij De Dolle Brouwers,Tripel| 10.00%,4.17
-650,Shakespeare Oatmeal Stout,Rogue Ales,Stout - Oatmeal| 5.80%,4.16
-651,Tripel Ale,Allagash Brewing Company,Tripel| 9.00%,4.16
-652,Old Viscosity,Port Brewing,Stout - American Imperial| 10.00%,4.16
-653,DeuS (Brut Des Flandres),Brouwerij Bosteels,BiËre de Champagne / BiËre Brut| 11.50%,4.17
-654,Boon Oude Geuze Mariage Parfait,Brouwerij Boon,Lambic - Gueuze| 8.00%,4.16
-655,Centennial IPA,Founders Brewing Company,IPA - American| 7.20%,4.15
-656,Gouden Carolus Tripel,Brouwerij Het Anker,Tripel| 9.00%,4.16
-657,Andechser Weissbier Hell,Klosterbrauerei Andechs,Wheat Beer - Hefeweizen| 5.50%,4.17
-658,Hercules Double IPA,Great Divide Brewing Company,IPA - Imperial| 10.00%,4.15
-659,Old Stock Ale,North Coast Brewing Co.,Old Ale| 12.00%,4.15
-660,Robust Porter,Smuttynose Brewing Company,Porter - Robust| 6.20%,4.15
-661,Big Bear Black Stout,Bear Republic Brewing Co.,Stout - American Imperial| 8.10%,4.15
-662,Siberian Night Imperial Stout,Thirsty Dog Brewing Company,Stout - Russian Imperial| 9.70%,4.15
-663,Old Engine Oil Black Ale,Harviestoun Brewery Ltd.,Porter - English| 6.00%,4.15
-664,Thumbprint Apple Ale,New Glarus Brewing Company,Fruit and Field Beer| 4.00%,4.15
-665,Triple,Brasserie de l'Abbaye du Val-Dieu,Tripel| 9.00%,4.16
-666,Dorado,Ballast Point Brewing Company,IPA - Imperial| 10.00%,4.14
-667,Oro De Calabaza,Jolly Pumpkin Artisan Ales,Farmhouse Ale - BiËre de Garde| 8.00%,4.14
-668,Uerige Doppelsticke,Uerige Oberg‰rige Hausbrauerei,Altbier| 8.50%,4.15
-669,Old Numbskull,AleSmith Brewing Company,Barleywine - American| 11.00%,4.14
-670,Eisbock,Kulmbacher Brauerei AG,Bock - Eisbock| 9.20%,4.14
-671,Gouden Carolus Classic,Brouwerij Het Anker,Strong Ale - Belgian Dark| 8.50%,4.14
-672,Trappist Achel 8∞ Bruin,Brouwerij der St. Benedictusabdij de Achelse,Dubbel| 8.00%,4.14
-673,G'Knight,Oskar Blues Grill & Brew,Red Ale - Imperial| 8.70%,4.13
-674,Damnation,Russian River Brewing Company,Strong Ale - Belgian Pale| 7.50%,4.13
-675,75 Minute IPA,Dogfish Head Craft Brewery,IPA - American| 7.50%,4.13
-676,Third Coast Old Ale,Bell's Brewery - Eccentric CafÈ & General Store,Barleywine - American| 10.20%,4.13
-677,Aecht Schlenkerla Rauchbier M‰rzen,Brauerei Heller-Trum / Schlenkerla,Lager - Rauchbier| 5.40%,4.13
-678,Alpha Klaus Christmas (Xmas) Porter,3 Floyds Brewing Co.,Porter - American| 6.00%,4.13
-679,Oude Gueuze CuvÈe RenÈ,Brouwerij Lindemans,Lambic - Gueuze| 5.50%,4.13
-680,Fuller's 1845,Fuller Smith & Turner PLC,Strong Ale - English| 6.30%,4.13
-681,Indian Brown Ale,Dogfish Head Craft Brewery,Brown Ale - American| 7.20%,4.12
-682,"Smuttynose IPA ""Finest Kind""",Smuttynose Brewing Company,IPA - American| 6.90%,4.12
-683,Anchor Porter,Anchor Brewing Company,Porter - American| 5.60%,4.12
-684,Hop Wallop,Victory Brewing Company - Downingtown,IPA - American| 7.50%,4.12
-685,Original Helles,Bayerische Staatsbrauerei Weihenstephan,Lager - Helles| 5.10%,4.12
-686,Petrus Aged Pale,De Brabandere,Pale Ale - Belgian| 7.30%,4.12
-687,Guinness Special Export Stout / Antwerpen Stout,Guinness Ltd.,Stout - Foreign / Export| 8.00%,4.13
-688,Weltenburger Kloster Asam-Bock,Klosterbrauerei Weltenburg,Bock - Doppelbock| 6.90%,4.13
-689,Ibex Series: Barrel-Aged Imperial Stout,The Schlafly Tap Room,Stout - Russian Imperial| 10.20%,4.12
-690,Nut Brown Ale,Samuel Smith Old Brewery (Tadcaster),Brown Ale - English| 5.00%,4.11
-691,Skull Splitter,Orkney Brewery,Scotch Ale / Wee Heavy| 8.50%,4.11
-692,Fred,Hair Of The Dog Brewing Company / Brewery And Tasting Room,Strong Ale - American| 10.00%,4.11
-693,Hacker-Pschorr Hefe Weisse Naturtr¸b,Hacker-Pschorr Br‰u GmbH,Wheat Beer - Hefeweizen| 5.50%,4.11
-694,Raison D'Extra,Dogfish Head Craft Brewery,Strong Ale - Belgian Dark| 15.00%,4.11
-695,"Carnegie Porter 5,5%",Carlsberg Sverige AB,Porter - Baltic| 5.50%,4.12
-696,Ayinger Ur-Weisse,Ayinger Privatbrauerei,Wheat Beer - Dunkelweizen| 5.80%,4.11
-697,60 Minute IPA,Dogfish Head Craft Brewery,IPA - American| 6.00%,4.1
-698,Piraat,Brouwerij Van Steenberge N.V.,Strong Ale - Belgian Pale| 10.50%,4.1
-699,Grand Cru,Allagash Brewing Company,Strong Ale - Belgian Dark| 7.20%,4.11
-700,Pater 6,Brouwerij St. Bernardus NV,Dubbel| 6.70%,4.1
-701,N'Ice Chouffe,Brasserie d'Achouffe,Strong Ale - Belgian Dark| 10.00%,4.1
-702,Swami's,Pizza Port Solana Beach,IPA - American| 6.80%,4.1
-703,St-Ambroise Oatmeal Stout,McAuslan Brewing,Stout - Oatmeal| 5.00%,4.1
-704,Salvation,Russian River Brewing Company,Strong Ale - Belgian Dark| 9.00%,4.1
-705,J.W. Lees Harvest Ale (Calvados Cask),J.W. Lees & Co (Brewers) Ltd,Barleywine - English| 11.50%,4.11
-706,Smuttynose Imperial Stout (Big Beer Series),Smuttynose Brewing Company,Stout - Russian Imperial| 10.50%,4.1
-707,Schneider Weisse Tap 4 Wiesen Edel-Weisse,Weisses Br‰uhaus G. Schneider & Sohn GmbH,Wheat Beer - Hefeweizen| 6.20%,4.1
-708,De Ranke XX Bitter,Brouwerij Brasserie De Ranke,IPA - Belgian| 6.00%,4.1
-709,Hazelnut Brown Nectar,Rogue Ales,Brown Ale - American| 5.60%,4.09
-710,Titan IPA,Great Divide Brewing Company,IPA - American| 7.10%,4.09
-711,Rare Vos Amber Ale,Brewery Ommegang,Pale Ale - Belgian| 6.50%,4.09
-712,Eliot Ness,Great Lakes Brewing Co.,Lager - Vienna| 6.10%,4.09
-713,Nosferatu,Great Lakes Brewing Co.,Red Ale - Imperial| 8.00%,4.09
-714,Arabier,Brouwerij De Dolle Brouwers,Strong Ale - Belgian Pale| 8.00%,4.1
-715,Samichlaus Classic Bier,Brauerei Schloss Eggenberg,Bock - Doppelbock| 14.00%,4.09
-716,Olde GnarlyWine,Lagunitas Brewing Company,Barleywine - American| 10.90%,4.09
-717,Affligem NoÎl,Brouwerij De Smedt / Brouwerij Affligem,Strong Ale - Belgian Dark| 9.00%,4.1
-718,Landlord,Timothy Taylor's Brewery,Pale Ale - English| 4.30%,4.1
-719,Uerige Sticke,Uerige Oberg‰rige Hausbrauerei,Altbier| 6.00%,4.1
-720,Horny Devil,AleSmith Brewing Company,Strong Ale - Belgian Pale| 10.00%,4.09
-721,Nostradamus,Brasserie Caracole,Strong Ale - Belgian Dark| 9.00%,4.09
-722,Sculpin,Ballast Point Brewing Company,IPA - American| 7.00%,4.41
-723,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American| 5.60%,4.05
-724,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American| 7.20%,4.17
-725,Lagunitas Sucks,Lagunitas Brewing Company,IPA - Imperial| 7.85%,4.35
-726,Ten FIDY,Oskar Blues Grill & Brew,Stout - American Imperial| 10.50%,4.4
-727,Samuel Adams Boston Lager,Boston Beer Company (Samuel Adams),Lager - Vienna| 5.00%,3.76
-728,A Little Sumpin' Sumpin' Ale,Lagunitas Brewing Company,IPA - American| 7.50%,4.22
-729,Fat Tire Amber Ale,New Belgium Brewing Company,Red Ale - American Amber / Red| 5.20%,3.61
-730,Jai Alai IPA,Cigar City Brewing,IPA - American| 7.50%,4.29
-731,Backwoods Bastard,Founders Brewing Company,Scotch Ale / Wee Heavy| 11.20%,4.38
-732,Guinness Draught,Guinness Ltd.,Stout - Irish Dry| 4.20%,3.59
-733,Dirty Bastard,Founders Brewing Company,Scotch Ale / Wee Heavy| 8.50%,4.07
-734,Hop Stoopid,Lagunitas Brewing Company,IPA - Imperial| 8.00%,4.21
-735,Samuel Adams Octoberfest,Boston Beer Company (Samuel Adams),Lager - M‰rzen / Oktoberfest| 5.30%,3.68
-736,Dead Guy Ale,Rogue Ales,Bock - Maibock| 6.80%,3.96
-737,All Day IPA,Founders Brewing Company,IPA - American| 4.70%,3.89
-738,Pumking,Southern Tier Brewing Company,Pumpkin Beer| 8.60%,4.13
-739,Dale's Pale Ale,Oskar Blues Grill & Brew,Pale Ale - American| 6.50%,3.9
-740,HopDevil,Victory Brewing Company - Downingtown,IPA - American| 6.70%,4.08
-741,Blue Moon Belgian White,Coors Brewing Company (Molson-Coors),Wheat Beer - Witbier| 5.40%,3.43
-742,Oberon Ale,Bell's Brewery - Eccentric CafÈ & General Store,Wheat Beer - American Pale| 5.80%,3.84
-743,Victory At Sea - Coffee And Vanilla,Ballast Point Brewing Company,Porter - Imperial| 10.00%,4.41
-744,Milk Stout,Left Hand Brewing Company,Stout - Sweet / Milk| 6.00%,4
-745,Yuengling Traditional Lager,Yuengling Brewery,Lager - American Amber / Red| 4.50%,3.42
-746,DirtWolf,Victory Brewing Company - Downingtown,IPA - Imperial| 8.70%,4.3
-747,Punkin Ale,Dogfish Head Craft Brewery,Pumpkin Beer| 7.00%,3.95
-748,Budweiser,Anheuser-Busch,Lager - Adjunct| 5.00%,2.34
-749,Double Trouble,Founders Brewing Company,IPA - Imperial| 9.40%,4.21
-750,Dragon's Milk,New Holland Brewing Company,Stout - American Imperial| 11.00%,4.08
-751,Bud Light,Anheuser-Busch,Lager - Light| 4.20%,1.78
-752,Sculpin - Grapefruit,Ballast Point Brewing Company,IPA - American| 7.00%,4.34
-753,Anchor Steam Beer,Anchor Brewing Company,California Common / Steam Beer| 4.90%,3.87
-754,Samuel Adams Winter Lager,Boston Beer Company (Samuel Adams),Bock - Traditional| 5.60%,3.6
-755,Pabst Blue Ribbon (PBR),Pabst Brewing Company,Lager - Adjunct| 4.74%,2.94
-756,Storm King Stout,Victory Brewing Company - Downingtown,Stout - American Imperial| 9.10%,4.08
-757,Palo Santo Marron,Dogfish Head Craft Brewery,Brown Ale - American| 12.00%,4.22
-758,Golden Monkey,Victory Brewing Company - Downingtown,Tripel| 9.50%,3.75
-759,Brown Shugga',Lagunitas Brewing Company,Strong Ale - American| 10.00%,4.07
-760,Young's Double Chocolate Stout,Eagle Brewery,Stout - Sweet / Milk| 5.20%,4.05
-761,#9,Magic Hat Brewing Company,Fruit and Field Beer| 5.10%,3.42
-762,Furious,Surly Brewing Company,IPA - American| 6.70%,4.3
-763,Samuel Adams Summer Ale,Boston Beer Company (Samuel Adams),Wheat Beer - American Pale| 5.30%,3.35
-764,Lunch,Maine Beer Company,IPA - American| 7.00%,4.39
-765,Stella Artois,Stella Artois,Lager - European Pale| 5.00%,3.11
-766,Goose IPA,Goose Island Beer Co.,IPA - English| 5.90%,3.72
-767,Maximus,Lagunitas Brewing Company,IPA - Imperial| 8.20%,4
-768,Hoegaarden Original White Ale,Brouwerij van Hoegaarden,Wheat Beer - Witbier| 4.90%,3.81
-769,Tank 7,Boulevard Brewing Co.,Farmhouse Ale - Saison| 8.50%,4.19
-770,Fresh Squeezed IPA,Deschutes Brewery,IPA - American| 6.40%,4.26
-771,Coors Light,Coors Brewing Company (Molson-Coors),Lager - Light| 4.20%,1.99
-772,Heineken Lager Beer,Heineken Nederland B.V.,Lager - European Pale| 5.00%,2.73
-773,Prima Pils,Victory Brewing Company - Downingtown,Pilsner - German| 5.30%,4.05
-774,Old Chub - Scottish Style Ale,Oskar Blues Grill & Brew,Scotch Ale / Wee Heavy| 8.00%,4.04
-775,Narwhal Imperial Stout,Sierra Nevada Brewing Co.,Stout - Russian Imperial| 10.20%,4.18
-776,Corona Extra,Grupo Modelo S.A. de C.V.,Lager - Adjunct| 4.60%,2.33
-777,Newcastle Brown Ale,Heineken Nederland B.V.,Brown Ale - English| 4.70%,3.33
-778,Choklat (Blackwater Series),Southern Tier Brewing Company,Stout - American Imperial| 10.00%,4.29
-779,Ruthless Rye IPA,Sierra Nevada Brewing Co.,Rye Beer| 6.60%,3.91
-780,Devil Dancer,Founders Brewing Company,IPA - Imperial| 12.00%,3.94
-781,Midas Touch,Dogfish Head Craft Brewery,Herb and Spice Beer| 9.00%,3.76
-782,Resin,Sixpoint Brewery,IPA - Imperial| 9.10%,4.14
-783,ApriHop,Dogfish Head Craft Brewery,IPA - American| 7.00%,3.87
-784,Matilda,Goose Island Beer Co.,Strong Ale - Belgian Pale| 7.00%,4.06
-785,Miller Lite,Miller Brewing Co.,Lager - Light| 4.17%,2.16
-786,Curmudgeon,Founders Brewing Company,Old Ale| 9.80%,4.05
-787,Franziskaner Hefe-Weisse,Spaten-Franziskaner-Br‰u,Wheat Beer - Hefeweizen| 5.00%,4.07
-788,312 Urban Wheat,Goose Island Beer Co.,Wheat Beer - American Pale| 4.20%,3.4
-789,2XIPA,Southern Tier Brewing Company,IPA - Imperial| 8.20%,4.04
-790,CrËme Br˚lÈe Imperial Milk Stout (Blackwater Series),Southern Tier Brewing Company,Stout - Sweet / Milk| 10.00%,3.99
-791,Sofie,Goose Island Beer Co.,Farmhouse Ale - Saison| 6.50%,4.12
-792,Kalamazoo Stout,Bell's Brewery - Eccentric CafÈ & General Store,Stout - American| 6.00%,4
-793,Guinness Extra Stout (Original),Guinness Ltd.,Stout - Irish Dry| 5.60%,3.76
-794,Cappuccino Stout,Lagunitas Brewing Company,Stout - American Imperial| 9.20%,3.97
-795,Undercover Investigation Shut-down Ale,Lagunitas Brewing Company,Strong Ale - American| 9.60%,4.09
-796,Duet,Alpine Beer Company,IPA - American| 7.00%,4.34
-797,Imperial Biscotti Break,Evil Twin Brewing,Stout - American Imperial| 11.50%,4.36
-798,Vanilla Porter,Breckenridge Brewery,Porter - American| 5.40%,3.68
-799,Head Hunter,Fat Head's Brewery & Saloon,IPA - American| 7.50%,4.34
-800,Summerfest,Sierra Nevada Brewing Co.,Pilsner - Bohemian / Czech| 5.00%,3.7
-801,Festina PÍche,Dogfish Head Craft Brewery,Sour - Berliner Weisse| 4.50%,3.72
-802,Samuel Adams Rebel IPA,Boston Beer Company (Samuel Adams),IPA - American| 6.50%,3.61
-803,Hop Nosh IPA,Uinta Brewing Company,IPA - American| 7.30%,4.03
-804,Big Eye,Ballast Point Brewing Company,IPA - American| 7.00%,4.07
-805,Shiner Bock,Spoetzl Brewery,Bock - Traditional| 4.40%,3.2
-806,Raison D' tre,Dogfish Head Craft Brewery,Strong Ale - Belgian Dark| 8.00%,3.68
-807,Xocoveza,Stone Brewing,Stout - American Imperial| 8.10%,4.36
-808,1554,New Belgium Brewing Company,Lager - European Dark| 6.00%,3.84
-809,Pilsner Urquell,Plze?sk˝ Prazdroj,Pilsner - Bohemian / Czech| 4.40%,3.63
-810,Leffe Blonde,Abbaye de Leffe S.A.,Blonde Ale - Belgian| 6.60%,3.6
-811,Raging Bitch,Flying Dog Brewery,IPA - Belgian| 8.30%,3.89
-812,Palate Wrecker,Green Flash Brewing Co.,IPA - Imperial| 9.50%,4.18
-813,Kellerweis,Sierra Nevada Brewing Co.,Wheat Beer - Hefeweizen| 4.80%,4.07
-814,The Mad Elf,Trˆegs Brewing Company,Strong Ale - Belgian Dark| 11.00%,3.91
-815,Miller High Life,Miller Brewing Co.,Lager - Adjunct| 4.60%,2.71
-816,Shock Top Belgian White,Anheuser-Busch,Wheat Beer - Witbier| 5.20%,2.97
-817,Plead The 5th Imperial Stout,Dark Horse Brewing Company,Stout - Russian Imperial| 11.00%,4.32
-818,Double Cream Stout,Bell's Brewery - Eccentric CafÈ & General Store,Stout - Sweet / Milk| 6.10%,3.97
-819,Big Bad Baptist,Epic Brewing Company,Stout - American Imperial| 11.80%,4.39
-820,Daisy Cutter Pale Ale,Half Acre Beer Company,Pale Ale - American| 5.20%,4.17
-821,Samuel Adams Cherry Wheat,Boston Beer Company (Samuel Adams),Fruit and Field Beer| 5.30%,3.19
-822,Honker's Ale,Goose Island Beer Co.,Bitter - English| 4.30%,3.67
-823,420 Extra Pale Ale,SweetWater Brewing Company,Pale Ale - American| 5.40%,3.66
-824,Mirror Pond Pale Ale,Deschutes Brewery,Pale Ale - American| 5.00%,3.91
-825,Lager,Brooklyn Brewery,Lager - American Amber / Red| 5.20%,3.74
-826,Spotted Cow,New Glarus Brewing Company,Cream Ale| 4.80%,3.75
-827,Miles Davis' Bitches Brew,Dogfish Head Craft Brewery,Stout - American Imperial| 9.00%,4.21
-828,Leinenkugel's Summer Shandy,Jacob Leinenkugel Brewing Company,Fruit and Field Beer| 4.20%,3.2
-829,Samuel Adams Latitude 48 IPA,Boston Beer Company (Samuel Adams),IPA - American| 6.00%,3.58
-830,Espresso Oak Aged Yeti Imperial Stout,Great Divide Brewing Company,Stout - American Imperial| 9.50%,4.29
-831,R¸bÊus,Founders Brewing Company,Fruit and Field Beer| 5.70%,3.91
-832,Samuel Adams Old Fezziwig Ale,Boston Beer Company (Samuel Adams),Winter Warmer| 5.90%,3.8
-833,Perpetual IPA,Trˆegs Brewing Company,IPA - American| 7.50%,4.08
-834,Samuel Adams Noble Pils,Boston Beer Company (Samuel Adams),Pilsner - German| 4.90%,3.8
-835,Vitus,Bayerische Staatsbrauerei Weihenstephan,Bock - Weizenbock| 7.70%,4.3
-836,Loose Cannon,Heavy Seas Beer,IPA - American| 7.25%,4.02
-837,Paulaner Hefe-Weissbier Naturtr¸b,Paulaner Brauerei GmbH & Co. KG,Wheat Beer - Hefeweizen| 5.50%,4.07
-838,Hopsecutioner,Terrapin Beer Company,IPA - American| 7.30%,3.83
-839,Negra Modelo,Grupo Modelo S.A. de C.V.,Lager - Munich Dunkel| 5.40%,3.37
-840,Arctic Panzer Wolf,3 Floyds Brewing Co.,IPA - Imperial| 9.00%,4.28
-841,Go To IPA,Stone Brewing,IPA - American| 4.80%,3.97
-842,A Little Sumpin' Wild,Lagunitas Brewing Company,IPA - Belgian| 8.80%,4.13
-843,Anchor Liberty Ale,Anchor Brewing Company,IPA - American| 5.90%,3.9
-844,Pranqster,North Coast Brewing Co.,Strong Ale - Belgian Pale| 7.60%,4.06
-845,Organic Chocolate Stout,Samuel Smith Old Brewery (Tadcaster),Stout - English| 5.00%,4.27
-846,Purple Haze,Abita Brewing Co.,Fruit and Field Beer| 4.20%,3.32
-847,Stout,Sierra Nevada Brewing Co.,Stout - American| 5.80%,4.08
+Beer,Rating
+Firestone Walker DBA,3.7
+Graft Birds Of Paradise,3.9
+Interboro DDH Mad Fat Fluid IPA,4
+Kent Falls The Hollow,4.07
+Mikkeler SD Passion Pool,4.2
+Swiftwater Coffee Stout,4.17
+TALEA Secret Password,4.1
+Ace Joker Apple Cider,3.51
+Ace Perry Pear Hard Cider,3.42
+Ace Space Blood Orange Cider,4
+Allagash Coolship Peche,4.14
+Allagash Curieux,4.08
+Allagash Farm to Face,3.5
+Allagash I Believe In Love,3.7
+Allagash White,3.9
+Andechs Doppelbock Dunkel,4.11
+Avery Rumpkin,3.6
+Bockor Cuvee des Jacobins Rouge,4.12
+Bockor Kriek Des Jacobins,3.83
+Boulevard Tank 7,3.9
+Central Waters Satin Solitude Imperial Stout,3.8
+Ciderboys Grand Mimosa,3.78
+Cidre de Normandie Ferme de Romilly Brut,3.9
+Collective Arts Bourbon Barrel Aged Imperial Porter,3.94
+Crabbie's Alcoholic Ginger Beer,3.95
+Dark Horse Toonilla,3.73
+Duclaw Sweet Baby Jesus!,3.47
+Almanac Vibes Pilsner,3.73
+American Solera Foederville,4.2
+American Solera Woof,3.47
+Anxo Cidery Hereford Gold,3.77
+Arrowood Farms Porch Beer,3.7
+Athletic Brewing All Out Stout,3.76
+Austin Eastciders Sangria Cider,3.72
+Aval Cidre Artisanal,3.6
+Avery Liliko'i Kepolo,4.03
+Banded Charms and Hexes,3.36
+Barrier Hoplantic,3.93
+Barrier Kickin' Knowledge IPA,4
+Barrier Kickin' Knowledge Milkshake IPA,3.5
+Barrier Our Sour : Bois & Berries,4.02
+Barrier/Bierwax Dont Nothing Move But The Money,3.82
+Bearded Iris Homestyle,3.49
+Bissel Brothers Lux,3.3
+Boulevard/Modern Times Restless Nights,3.9
+Corona Extra,3.5
+Lagunitas A Little Sumpin' Sumpin',4.05
+New Belgium Fat Tire Amber Ale,3.68
+Bud Light,4.09
+Bud Light Seltzer Variety Pack,3.43
+Budweiser,3.7
+Coors Light,3.43
+Guinness Draught,4.09
+Heineken Lager,3.6
+Lagunitas IPA,3.51
+Modelo Especial,3.5
+Peroni Nastro Azzuro,3.41
+Sixpoint Bengali,3.9
+Sixpoint Sweet Action,4.22
+Sixpoint The Crisp Pilz,4.15
+Stella Artois,3.46
+Truly Spiked and Sparkling Variety Citrus,3.55
+White Claw Hard Seltzer Black Cherry,3.7
+White Claw Hard Seltzer Variety Pack,3.72
+White Claw Mango,4.17
+White Claw Natural Lime,3.7
+White Claw Raspberry,3.5
+White Claw Ruby Grapefruit,3.8
+3 Fonteinen Oude Geuze,3.67
+B. Nektar Core Crusher,3.6
+Ballast Point Sculpin IPA,4.26
+Bell's Blackbeard's Bear Hug (2019),3.36
+Brasserie Dupont Saison Dupont Saison,3.48
+Brooklyn East India Pale Ale,4
+Brooklyn Lager,3.8
+Brooklyn Pilsner,4.02
+Bruery Terreux/Jester King Bouffon,3.4
+Captain Lawrence Hops N' Roses,4
+Cascade Apricot 2017,3.69
+Central Waters Bourbon Barrel Stout,3.73
+Chimay Grand Reserve,3.38
+Citizen Cider The AmeriCran,3.59
+Crabbie's Alcoholic Raspberry Ginger Beer,3.34
+Crooked Stave Nightmare on Brett Sour Cherry,3.53
+Crooked Stave Salvador Cybies,3.9
+18th Street Under Crown,4.14
+21 Amendment Variety IPA Pack,3.47
+21st Amendment Hell or High Watermelon,3.51
+21st Amendment Monk's Blood,4.03
+21st Amendment Variety Pack,3.69
+All Together Collab (hosted by The Other Half),4.1
+Allagash Crosspath,3.73
+Allagash Map 40,3.52
+Allagash River Trip,3.4
+Almanac LOVE Hazy,4.03
+Almanac Loud!,3.37
+Anderson Valley Holygose,3.5
+BON & VIV Spiked Seltzer Variety 12 Pack,3.91
+Bell's Larry's Latest Flamingo Fruit Fight,4.35
+Big Alice Queensbridge,3.4
+Bissell Brothers Reciprocal,3.6
+Bissell Brothers The Substance,4.08
+"Blue Point ""The IPA""",4.27
+Blue Point The Shore Thing,3.94
+Abita Purple Haze,3.35
+Ace Apple Cider,3.5
+Amstel Light,3.61
+Becks,3.98
+Bell's Two Hearted,3.84
+Bells Bright White Ale,4.23
+Birra Moretti Premium Lager,3.4
+Blue Point Toasted Lager,3.6
+Braven Bushwick Pilsner,3.46
+Breckenridge Vanilla Porter,3.34
+Bronx Brewery Boom Boom IPA,3.57
+Brooklyn Sorachi Ace,4.37
+Bud Light Lime,3.55
+Bud Light Platinum,3.64
+Captain Lawrence Hop Commander,3.9
+Captain Lawrence Liquid Gold,4
+14th Star Follow Me IPA,3.9
+14th Star Tribute,3.61
+18th Street Devil's Cup,3.48
+18th Street Rise of the Angels DIPA,3.38
+1911 Original Hard Cider,4.38
+Alewife Death to Ego IPA,4.23
+Alewife Electric Rhino,3.7
+Alewife Lupulin Vibrations: Idaho 7,4.16
+Alewife Meadow Maker,3.37
+Alewife Metanoia,3.8
+Alewife Self Decapitation,3.59
+Alewife Thousand Stars,3.86
+Anyday Rose,3.45
+Arctic Summer Raspberry Lime,3.46
+Austin Eastciders Watermelon Cider,3.35
+BON & VIV Spiked Seltzer Black Cherry Rosemary,3.7
+Barrier Money IPA,3.59
+Allagash Saison,3.86
+Allagash Sixteen Counties Ale,3.8
+Allagash Tripel,3.77
+Alltech Kentucky Bourbon Barrel Coffee Stout,3.8
+Ballast Point Grapefruit Sculpin,3.54
+Bell's Amber Ale,4.09
+Bell's Kalamazoo Stout,3.37
+Boulevard The Calling,3.53
+Brooklyn Bel Air Sour Ale,3.59
+Brooklyn Summer Ale,4.22
+Delirium Tremens,3.59
+Dogfish Head 120 Minute IPA,3.9
+Dogfish Head 60 Minute,3.6
+Dogfish Head 90 Minute,3.54
+3 Stars Pounding Trees,3.58
+Anderson Valley Blood Orange Gose,4.08
+Anderson Valley Summer Solstice,4.42
+"Anderson Valley The Kimmie, The Yink and The Holy Gose",3.55
+Anderson Valley Winter Solstice,3.61
+Applewood Naked Flock Pumpkin Cider,3.4
+Austin Eastciders Blood Orange Cider,3.8
+Austin Eastciders Original Dry Cider,4.1
+Austin Eastciders Pineapple Cider,3.49
+Austin Eastciders Ruby Red Grapefruit Cider,3.98
+Austin Eastciders Texas Honey Cider,3.45
+Barrier & Incendiary Front Toward Pilsner,4.01
+Barrier Classic,4.2
+Bell's Hopslam 2019,3.73
+Bell's Pooltime,3.77
+Big Alice As Cool As You Please,3.55
+Angry Orchard Crisp Apple,3.87
+Blue Moon Belgian Style Wheat,3.5
+Five Boroughs Gridlock Hazy IPA,4
+Grimm Lambo Door,4.38
+Grimm Reverbaration (sic),3.86
+Kombrewcha Berry Hibiscus,3.53
+Left Hand Milk Stout Nitro,3.51
+Lion's Head Deluxe Pilsner,3.33
+Lionshead IPA,3.59
+Narragansett Lager,3.39
+Torch & Crown Habitual Line Stepper,3.79
+Abandoned Hard Cider Classic,3.95
+Fifth Hammer Time Slipper,3.76
+Finback Good Night Dark Sky,4
+Folksbier Pilsner,3.77
+Interboro Made You Look,3.48
+Ayinger Celebrator Doppelbock,4.19
+Bellwoods Barn Owl Blend No. 16,4.1
+Bellwoods Grandma‚Äôs Boy (2018),3.8
+Brekeriet Picnic Sunrise,3.79
+Carakale/AZ Wilderness Dead Sea-rious,3.83
+Central Waters Brewer's Reserve Call Me Old Fashioned,3.52
+Chimay Dor√©e,3.47
+Dieu du Ciel Grande Noirceur,3.93
+Dugges Cola,3.86
+Fuller's London Pride,3.59
+Gaffel Kolsch,3.66
+Gouden Carolus Classic,4.29
+Grimm Prose Poem,4.38
+Hof ten Dormaal Barbera,3.47
+Hofbrau Hefeweizen,3.51
+Hofbrau Munchen Maibock,3.33
+Hofbr√§u Original,3.91
+Hokkaido Melon Ale,3.76
+Aecht Schlenkerla Helles Lagerbier,3.36
+Alewife All Together,3.73
+Anderson Valley Briney Melon,3.78
+Aslin Don't Dial In And Focus,3.46
+Aslin VelociRabbit,3.54
+Avery El Gose,3.49
+Belhaven Black Scottish Stout Nitro,3.88
+Bitburger Pilsner,3.81
+Bitburger/Sierra Nevada Triple Hop'd Lager,3.91
+BrewDog Jet Black Heart Nitro,3.37
+Bruery White Chocolate,3.6
+Burial Blade and Sheath,3.83
+Carton Nitro Light & Sweet,3.81
+Carton The Wit Whale,4
+Cigar City Maduro Brown Ale,3.87
+Cigar City Wedge Cut,4.36
+Civil Society Fresh,3.84
+Civil Society Pulp,4.14
+Collective Arts Life in the Clouds,3.42
+Collective Arts Stranger than Fiction Porter,4.09
+Abita Andygator,4.28
+Abita Grapefruit Harvest IPA,3.57
+Allagash Dubbel,3.67
+Bell's Midwestern Pale Ale,4.14
+Blue Moon Short Straw,3.9
+Blue Point Una Fria,3.41
+Bosteels Pauwel Kwak,4.17
+Breckenridge Agave Wheat,4.41
+Bronx No Resolutions IPA,3.87
+Brooklyn Black Chocolate Stout,3.68
+Brooklyn Defender 2019,3.46
+Bud Light Pine Apple Rita Splash,3.54
+Coney Island Hard Root Beer,4.4
+Crooked Stave Blueberry Origins,3.59
+Datura Damm Barcelona,4.02
+Allagash Darling Ruby,4.15
+Anxo Happy Tree Dry Cider,3.51
+Ball Rose Organic Dry Cider,3.82
+Barrier Atypical IPA,4.1
+Barrier Classic White Ale,3.45
+Barrier Floral Friday,3.57
+Barrier Lomax,3.65
+Beak & Skiff 1911 Hard Cider,3.65
+Bell's Oarsman Ale,3.42
+Bronx B-Side Series: Backyard Freestyle IPA,4.26
+Bronx Now Youse Can't Leave,3.5
+Burial Surf Wax,4.15
+Burlington Beer Elaborate Metaphor,3.96
+Cigar City After Sesh,3.78
+Citizen Cider For Shore,3.59
+Clown Shoes Zen Garden,4.13
+Collective Arts Guava Gose,3.72
+Citizen Cider The Dirty Mayor,3.4
+Citizen The Lake Hopper,3.76
+Citizen Tulsi Cider,3.42
+Citizen Unified Press,3.59
+Citizen Wit's Up,3.43
+Five Boroughs Tiny Juicy IPA,3.9
+SingleCut 18 Watt,3.56
+SingleCut Flatter Flatter Flatter Flatter Flatter Flatter Flatter 2x DH IPA,4.27
+SingleCut Mastery Knows No Shortcut,4.2
+SingleCut Plaintop,4.4
+SingleCut Weird & Gilly,4
+Sloop Juice Bomb,4.2
+Folksbier Old Bavarian Lager,3.9
+KCBC Marble Of Doom V,3.77
+Sloop Hospitality Relief Bomb,4.01
+Fifth Hammer Functional Modern,3.75
+Greenpoint Beer & Ale Constant Reassurance,3.82
+Grimm Utopos,3.97
+Grimm Vacay,4.01
+Industrial Arts State Of The Art Pina Colada DIPA,4.04
+Interboro Mad Fat Pride,3.73
+KCBC Zed Lupulin,3.79
+Singlecut All In All Is All Maibock,4.1
+Tecate,3.89
+Transmitter L1 Pilsner,3.35
+Transmitter L2 Vienna Lager,4.1
+Miller High Life,3.41
+"Industrial Arts YES FARMS, YES BEER",3.86
+Kills Boro - Island Vibes,3.35
+Lawson's Finest Liquids The Space In Between Passionfruit,4.42
+New Belgium Voodoo Ranger IPA,3.34
+Non Sequitur All Together,3.7
+SingleCut Flatter x7,4.1
+Sloop Cloud Jumper,3.83
+Flying Dog Double Dog Double IPA,3.48
+Flying Dog Raging Bitch Belgian Style IPA,3.8
+Wolffer Dry Ros√© Cider,3.96
+Barrier Icculus K√∂lsch,3.54
+Barrier RipRap Baltic Porter,4.3
+Bronx Well-Earned,3.7
+Cigar City Jai Alai,3.73
+Downeast Cider Original,3.28
+Founders Porter,3.56
+Founders Solid Gold,3.63
+Grimm Evening Sunrise,4.06
+Guinness,4.27
+Harpoon UFO White,4.25
+Ithaca Apricot Wheat,3.59
+Montauk Pilsner,3.8
+Ommegang Witte Wheat,3.52
+Radeberger Pilsner,4.23
+Sam Adams Boston Lager,4.16
+SweetWater 420 Extra Pale Ale,3.34
+Yuengling Traditional Lager,3.76
+Corona,3.54
+Guinness Foreign Extra Stout,3.57
+Heineken,4.26
+Red Stripe,3.51
+Duclaw Pineapple Queen,3.6
+Industrial Arts Wrench IPA,3.67
+Bronx Summer Pale Ale,3.26
+Catskill Devil's Path IPA,3.7
+21st Amendment Brew Free! or Die IPA,3.85
+Citizen Tulsi Cider w/ Basil,3.8
+Catskill Ball Lightning Pilsner,3.57
+Guinness Extra Stout,3.7
+Jack's Abby Red Tape,3.35
+Catskill Brewing Cemetery Pool,3.54
+Southern Tier Mango Crush Session Sour,4.39
+Abita Turbodog,3.58
+Alphabet City Alpha Male IPA,4.02
+Alphabet City Easy Blonde,3.42
+Brooklyn Local 1,3.9
+Chimay Peres Trappistes Ale Blue,3.78
+Doc‚Äôs Draft Hard Apple Cider,4.15
+Duvel,3.73
+Firestone Walker Easy Jack,3.92
+Flying Dog Numero Uno,4.3
+Founders Dirty Bastard,3.8
+Genesee Cream Ale,3.58
+Genesee Lager,3.47
+Montauk Watermelon Session IPA,3.55
+Pabst Blue Ribbon (PBR),3.55
+Radiant Pig Junior IPA,3.8
+Sierra Nevada Torpedo,3.48
+Broken Bow Bearded Skull,4.07
+Broken Bow Space Brut,3.66
+"THE HUNTRESS ""Amber Lager""",3.26
+"THE HUNTRESS ""American Pale Ale""",3.54
+"THE HUNTRESS ""American Stout""",4.16
+"THE HUNTRESS ""Belgian Tripel""",3.48
+"THE HUNTRESS ""Double Witbier""",3.5
+"THE HUNTRESS ""Farmhouse Saison""",3.64
+"THE HUNTRESS ""India Pale Ale""",3.62
+"THE HUNTRESS ""Irish Red Ale""",3.34
+"The Huntress ""Brut Pilsner""",3.73
+"The Huntress ""Strawberry Sour""",3.5
+The Huntress ‚ÄúRose Cider‚Äù,3.38
+Founders All Day IPA,3.64
+Founders Breakfast Stout,3.89
+Founders Rubaeus,3.54
+"The Huntress ""Notorious LIC""",3.76
+SingleCut Eric More Cowbell! Nitro,3.9
+Austin East Watermelon Cider,3.53
+Transmitter G3 Golden Ale,4.37
+Bell's Overland Stout,4.44
+Hudson Valley Kaizen,3.86
+Founders CBS 2019,3.68
+Schofferhofer Grapefruit Hefeweizen,3.46
+Interboro/Creature Comforts More Juice Than Zeus,4.04
+West Kill Sunshine Valley,3.73
+KCBC Penguins In Hyperspace,3.44
+Archer Roose Sauv Blanc,3.65
+Flora Ros√© Wine Spritzer,3.72
+Nomikai Sparkling Ros√©,3.51
+Alewife Chaos Gose,3.85
+Broken Bow IPA : Mosaic,3.38
+Broken Bow Prime Now,4.41
+Broken Bow The Barones ‚ÄúBaron Von Black‚Äù,3.33
+"Broken Bow The Barones: ""El Ay Si‚Äù",4.14
+Broken Bow The Barones: ‚ÄúHellgate Original‚Äù,3.87
+Broken Bow The Baroness ‚ÄúWhiteWash #5‚Äù,3.51
+Garvies Point Glen Clover,4.14
+Greenpoint Descending Squares,3.57
+Night Shift Lime Lite,3.85
+Schilling Combover,4.09
+Sloop Forever Rotating IPA,3.5
+Torch & Crown DFM2,3.79
+Broken Bow Broken Auger Lager,3.72
+Captain Lawrence 6th Borough,3.65
+Coney Island Beach Beer,3.89
+Departed Soles GoodbIPA: Four My Homie,3.43
+Departed Soles Hudson Pride,3.84
+Dogfish Head Namaste,3.65
+Downeast Aloha Cider,4.09
+Evil Twin No Hero,3.58
+Gay Beer Golden Lager,4.1
+Great South Bay Blood Orange Pale Ale,3.43
+Kelso Nut Brown Lager,3.7
+Lawson's Finest Super Session,4.4
+Long Trail Ale,3.41
+Lord Hobo Glorious,4.48
+Night Shift Nite Lite,3.88
+Original Sin Pear Cider,3.58
+Sierra Nevada 40 Years Hoppy Anniversary Ale,3.95
+Weinhenstephaner Hefeweissbier,3.61
+Aecht Schlenkerla Rauchbier M√§rzen,3.54
+Boon Oude Geuze,4.02
+Chimay Premiere (Red),3.39
+Flying Dog Gonzo Imperial Porter,4.06
+Gouden Carolus Grand Cru,3.88
+Green's Discovery Amber,4.19
+Jolly Pumpkin Oro De Calabaza,3.51
+Lindemans Kriek,4.29
+Ommegang Abbey Ale,3.51
+Athletic Brewing Run Wild IPA,3.94
+Alchemist - Focal Banger,3.96
+Alchemist Heady Topper,3.7
+Alewife Distraction,3.83
+Alewife Social Conditioning,3.77
+Citizen Cider bRose,3.29
+Equilibrium C,3.91
+Grimm Magnetic Cloud,4.32
+Grimm Maypole,3.71
+Grimm Phantom Power,3.97
+Industrial Arts Metric,3.41
+Night Shift Hoot Hard Seltzer Raspberry Lime,3.59
+Other Half DDH Forever Ever,4.2
+Other Half Forever Ever,4.3
+Grimm Color Field,4.03
+Maine Thank You,4.06
+Crooked Stave Petite Sour Peach,3.56
+Crooked Stave Petite Sour Ros√©,4.01
+Grimm Moon Dreams,4.39
+Hudson Valley Soleil-SIPA,3.75
+Lock City Double Noggin Knocker,4.34
+Other Half Triple Citra Daydream,4.36
+Sierra Nevada Porter,3.32
+Springdale Razzurected,3.84
+Victory Prima Pils,3.72
+Bell's Oberon,4.01
+Burlington Beer Orbital Elevator,4.4
+Evil Twin Even More Pecan Pie Jesus,4.16
+Evil Twin Imperial Biscotti Break,4.28
+Fiddlehead Second Fiddle,3.8
+Frost Double Shush,3.85
+Grimm Pi√±a Pop!,3.93
+Hudson Valley Say No More,4.07
+Night Shift Brewing Buzz,4.43
+Other Half Oh...,4.2
+Other Half Superfun!,4.1
+Oxbow Luppolo,3.36
+AleSmith Anvil ESB,4.36
+Avery The Beast Grand Cru Ale,4.47
+Central Waters Brewer's Reserve Bourbon Barrel Scotch Ale,3.58
+Central Waters Mud Puppy Porter,3.97
+Cigar Florida Cracker White,4.41
+Finch's Fascist Pig Ale,3.8
+Founders Red's Rye IPA,3.7
+Golden Coast Mead Speakeasy,3.35
+Golden Coast Savage Bois,3.77
+Grimm Rainbow Dome,4.24
+Gun Hill Redcoat Resistance,4.12
+Kuka Belgian Wit with Apricot & Plums,3.59
+McKenzie's Black Cherry,3.64
+McKenzie's Lazy Lemon Hard Cider,4.36
+Peekskill Simple Sour,3.51
+Point Nude Beach,3.63
+21st Amendment Lower De Boom,3.59
+Almond 22 Pink IPA,3.81
+Arcadia London Porter,3.57
+Avery Mephistopheles,3.35
+Brasserie De Saint-Sylvestre 3 Monts,3.55
+Bruery Sour In The Rye,3.42
+Bruery Tart of Darkness,3.41
+Crabbies Spiced Orange Ginger,3.48
+De Troch Winter Gueuze,3.77
+Founders Devil Dancer,4.67
+Fuller's ESB,3.61
+Gisberga Trigo,4.07
+Goose Island Matilda,3.79
+21st Amendment Back in Black,3.64
+21st Amendment Bitter American,3.56
+21st Amendment Sneak Attack,3.61
+Arcadia Sky High Rye,3.67
+Cigar City Invasion,4.26
+Glutenberg India Pale Ale,3.54
+Old Speckled Hen Nitro,3.52
+Oskar Blues Dale's Pale Ale,3.88
+Oskar Blues Mama's Little Yella Pils,3.51
+Speakeasy Butchertown India Black Ale,3.77
+Jester King Cerveza Sin Frontera,3.81
+Fiddlehead IPA,4.57
+Foam Together Or Alone,3.71
+Grimm Fluffy Tufts,4.34
+Grimm Psychic Life Coach,4.3
+Lawson's Finest Sip of Sunshine,4.3
+Abomination Bro Beer,3.94
+Boulevard Unfiltered Wheat,4.28
+Crooked Stave Sour Ros√©,3.68
+Edmund's Oast Cereal for Dinner,3.21
+Edmunds Oast Pales In Comparison,3.57
+Fifth Hammer Bridging The Gap,3.97
+Finback Brewery Breach The Surface,4.4
+Grimm Maximum Happiness,4.2
+Gun Hill Mosaic Soft Serve,3.98
+Hill Farmstead Shirley Mae: Sunrise Edition NITRO,3.39
+Industrial Arts State Of The Art DDH Wheat Stout,3.94
+Lindners's Hazy N Juicy,4.14
+Maine Woods and Waters,3.5
+New Day Meadery Re-Thinker,4.03
+Brooklyn Cider Kinda Dry,3.33
+Cider Creek Hard Cider,4.1
+Dutchess Ales Mizmaze Ale,4.01
+Equilibrium Mmm... Osa,4.03
+Finback Cat Hand,3.57
+Finback Days Uncounted,3.56
+Finback Meridian IPA,4.03
+Finback Perpetual,3.69
+Finback Ultimate Beats,3.97
+Grimm Butterfly Door,4.24
+Gun Hill Cash and Carry,3.65
+Hudson Valley Feel No Way Light,3.52
+Indian Ladder/Interboro Super Local,3.52
+Anchor Steam Beer,3.83
+Bass Ale,3.39
+Blue Point Hoptical Illusion,3.66
+Braven IPA,3.51
+Coney Island Merman IPA,4.09
+BON & VIV Lemon Lime,3.67
+BON & VIV Spiked Seltzer Cranberry,3.41
+BON & VIV Spiked Seltzer Grapefruit ( 6 pk ),3.72
+Montauk Arrowhead Irish Red Ale,3.55
+Montauk Driftwood Ale,4.12
+Montauk Summer Ale,4.29
+Peak Organic Happy Hour,3.49
+Peak Organic Highball Ginger Mule,3.76
+Peak Organic Highball Grapefruit Paloma,3.42
+Peak Organic IPA,3.38
+Sierra Nevada Hazy Little Thing,4.06
+Finback Double Sess Witbier,3.68
+Porterhouse Yippy IPA,3.54
+Lawson's Finest Liquids Double Sunshine IPA,3.24
+KCBC Morbid Hour,4.12
+Sixpoint Double Oaked Master Blend: Jameson Edition,3.63
+Hudson North Cider - Standard,4.56
+Keg & Lantern Dark Star,3.4
+Oxbow Farmhouse Pale Ale,3.42
+Meridian Hive Haven,4.32
+Carlow O'Hara's Irish Red,3.92
+Ayinger Br√§uweisse,4.13
+Sloop Pilsner,3.72
+Carakale Red Sea-rious,3.53
+Freigeist Abraxxxas,3.58
+Blenderie Ommegang Super Kriek,3.76
+18th Street Pins and Needles,4.24
+Kulmbacher Eisbock,3.46
+Allagash Barrel & Bean,4.38
+Allagash Black,3.89
+Anchor Brewer's Pale Ale,4.45
+Anchor Liberty Ale,3.94
+Anchor Steam Brewers Pale Ale,3.62
+Anchor Steam California Lager,4.06
+Anchor Steam Fog Breaker,3.38
+Anchor Steam Fog Breaker IPA,3.82
+Anchor Steam Liberty Ale,3.35
+Avery Raspberry Truffale,3.81
+Avery Tweak Bourbon Barrel,4.36
+Avery Uncle Jacob's Stout,3.76
+Boulevard Dark Truth Stout,3.53
+Boulevard Rye on Rye,4.01
+Boulevard The Sixth Glass,3.36
+Abomination Wandering In The Fog Sabro,3.61
+Abomination Wandering In The Fog Vic Secret,3.99
+Aecht Schlenkerla Lentbeer,3.56
+Aecht Schlenkerla Lentbeer Unfiltered Smokebeer,3.37
+Allagash Map 40 Stout,3.81
+Allagash Nowaday,4.03
+Arctic Summer Variety 12 Pack,4
+Aslin A Small Town in Ontario,3.52
+Aslin Beer Bringing Sexy Back,4.07
+Aslin Beer Co. Dad Jokes,4.3
+Aslin Beer Co. Soaking The Dishes,3.59
+Athletic Brewing Run Wild,3.34
+Athletic Upside Dawn,3.66
+Alewife Lupulin Vibrations: Azacca,3.71
+Fonta Flora Darwin's Forehead,3.44
+Interboro Spirits & Ales All Together,3.63
+Modern Times Laser Rain,4.17
+Other Half All Citra Everything,4
+Finback Double Someething Sabro,3.93
+Boon Oude Geuze Mariage Parfait,4.29
+Founders Backwoods Bastard,3.63
+Grimm/Kane Waffling,3.55
+Omnipollo Aon Bourbon Barrel Aged,4.06
+Sierra Nevada Pale Ale,4.15
+Transmitter PH7 Nectarine Sour,3.8
+Troegs Mad Elf,3.68
+Weihenstephaner Hefeweissbier,3.59
+Westbrook Mexican Cake,3.75
+Abomination Brewing Social Distancing,3.44
+Carlsberg,3.54
+DESTIHL Wild Sour Series: Pi√±a Colada Gose,3.94
+District 96 Photo Op,3.51
+Equilibrium Vulgar Display of Flower,4.14
+Evil Twin Molotov Cocktail,4.2
+Finback Among The Bandits,4.1
+Finback Double Something Sabro,4
+Finback Rolling In Clouds,4.1
+Finback Social Fabric,4.1
+Ace Pineapple Cider,3.65
+BrewDog Punk IPA,3.96
+Catskill Pale Ale With Idaho 7,3.58
+Finback Dimensional Transort,3.36
+Flying Dog Horn Dog Barley Wine,3.84
+Founders KBS (2019),4.32
+Maine Beer Co Lunch,3.58
+Abbey De Leffe Blonde,3.56
+Avery Tweak Barrel-Aged Imperial Stout with Coffee 2017,4.35
+Bear Republic Racer 5 IPA,3.62
+Brouwerij Bosteels Tripel Karmaliet,4.01
+Chimay Cinq Cents (White),3.37
+Clausthaler Premium Non-Alcoholic,4.22
+Cooper's Pale,3.36
+AleSmith IPA,3.96
+Bell's Hopslam 2020,3.63
+Big Alice Off the Cuff,3.92
+Big Alice World of Tomorrow,3.63
+Big aLICe Queensbridge DDH,4.56
+Blue Point Blueberry Ale,3.97
+Blue Point Hazy Bastard,3.56
+Bronx Pale Ale,3.68
+Bronx Slow Your Roll,3.37
+Aecht Schlenkerla Fastenbier,3.77
+Aecht Schlenkerla Oak Smoke,3.87
+Aecht Schlenkerla Rauchbier Urbock,3.5
+Against the Grain Pretty Willie's Imperial Stout,4.4
+Against the Grain Sexy Saxon,3.61
+Againt The Grain Something Special,3.84
+Allagash Barrel and Bean,3.59
+Allagash Pick Your Own,3.91
+Avery Anniversary Twenty Four,3.38
+Avery Ginger Sour,3.98
+Avery Raspberry Sour,4.31
+Avery Tweak Barrel-Aged Imperial Stout with Coffee,3.72
+B. Nektar Believe American Gods,3.48
+Boulevard 30th Anniversary Barrel Aged Blend,3.6
+EVIL TWIN GRAND CRU CUVEE,4.06
+Evil Twin Even More Coco Jesus,4.23
+Evil Twin Even More Jesus,4.4
+Evil Twin Grand Cru,3.58
+Evil Twin Imperial Doughnut Break,3.37
+Evil Twin Imperial Wedding Cake Break,3.84
+Evil Twin Irish-ish Coffee Stout,4.08
+Evil Twin Some People Are Immune To Good Banana Stout,3.65
+Gun Hill Rise Up Rye,3.68
+Gun Hill Rum Barrel Aged Fort Ticonderoga,3.59
+Gun Hill/Urban Village Brother From Another Mother,4.27
+Hermit Thrush Dark at 4:30,3.33
+Jack's Abby Blood Orange Wheat,3.55
+Jack's Abby Mass Rising,3.55
+Jack's Abby Modern Hell,3.6
+Jack's Abby Sunny Ridge,3.91
+Jack's Abby Variety Pack,4.4
+Jack‚Äôs Abby Shipping Out Of Boston,3.76
+Oskar Blues Barrel Aged Ten Fidy,3.86
+Oskar Blues Ten Fidy,3.92
+Goose Island Bourbon County Cafe De Olla Stout 2019,3.51
+Interboro Diplo Hawk,3.69
+Equilibrium Riwakaroo,4.2
+Finback IPA,4.3
+Finback Social Fabric Can,4.3
+Greenpoint Please Stand By,3.46
+Greenpoint Turbulence,3.61
+Interboro Deep Cover,3.36
+Interboro Subatomic,3.4
+Interboro X Thin Man Fortified Live,3.74
+KCBC Blocktopus,3.89
+Nap Time - Divination,3.28
+Nap Time - Imaginary Views - Mango,4.24
+Nap Time - Imaginary Views - Strawberry,4.05
+Breckenridge Vanilla Porter Nitro,3.47
+Knee Deep Simtra Triple IPA,4.07
+Ommegang Grains of Truth Ale,3.74
+Oskar Blues G'Knight,3.33
+Otter Creek Couch Surfer,3.46
+Pretty Things Baby Tree,3.58
+Rogue American Amber,3.6
+Rushing Duck Baby Elephant IPA,3.38
+SingleCut J√•n Alpine White Lager,3.9
+Two Roads Roadsmary's Other Baby,3.51
+Dogfish Head Midas Touch,3.36
+Evil Twin Fire Water,3.71
+Evil Twin The Porthole,3.94
+Gigantic IPA,3.55
+Great Divide Whitewater Wheat Ale,3.7
+Green Flash Imperial IPA,3.75
+Harpoon Octoberfest,3.69
+Hoppin' Frog Frog's Hollow Double Pumpkin Ale,3.51
+Horseheads Blueberry Ale,3.99
+Jolly Pumpkin Luci√©rnaga,4.26
+Left Hand Introvert Session IPA,4.01
+Midnight Sun Hop Dog Double Wheat IPA,4.21
+Peak Organic Citrus Saison,3.53
+Pretty Things Jack D'Or,4.39
+Rogue Sriracha Stout,3.9
+"Rogue Voodoo Doughnut Pretzel, Raspberry & Chocolate Ale",4.33
+Stillwater Mono Pilsener,4.34
+Cambridge Remain In Light,4.2
+Nebraska Brunette Nut Brown,4.37
+Third Rail Field 2 Farmhouse Ale,4.07
+Founders Kentucky Breakfast Stout 2020,3.9
+Goose Island Bourbon County Brand Wheatwine 2019,3.85
+Grimm Boysen Rebus,3.92
+Grimm Castling,4.11
+Grimm Mimsy,3.81
+Grimm Tra La La,3.74
+Lindeman's Framboise,4.21
+Maine Beer Co. Peeper,3.79
+Threes Bad Faith,3.43
+Threes Eternal Return: Ros√©,4.04
+American Solera Terpy Citra,3.43
+Barrier Kickin' Knowledge: Orange Peach Mango,3.33
+Captain Lawrence Citra Dreams,4.21
+Collective Arts Jam Up The Mash,3.58
+Collective Arts Ransack The Universe,4.34
+Finback Oscillation,4.2
+Five Boroughs Hoppy Lager,3.37
+Foley Brothers Pieces of Eight,4.08
+Folksbier Recurring Dreams #36,3.47
+Ayinger Bavarian Pilsner,3.34
+Lexington Kentucky Bourbon Barrel Ale,4.21
+Lucky Buddha,4.13
+New Holland Dragon's Milk,3.64
+Orval Trappist,4.04
+Unibroue La Fin Du Monde,4.3
+Aslin One Star,3.44
+Barrier | Money,3.87
+Bell's Light Hearted Ale,4.21
+Blue Point Hazy Bastard: Variant #006,3.83
+Bon & Viv Spiked Seltzer Blends Variety Pack,3.64
+Brix City Grateful Jams,3.43
+Brix City Island Jams,4.19
+Citizens Fruition,3.63
+Edmund's Oast Sour Mango Strawberry,3.5
+Finback Go Beyond,4.2
+Goose Island Next Coast IPA,4.01
+Jack's Abby House Lager,3.5
+Lagunitas Czech Style Pilsner,3.81
+Montauk Wave Chaser,4.12
+Ommegang Hennepin,4.11
+Sixpoint Jammer,3.67
+Michelob Ultra,3.73
+Miller Lite,4.48
+Abomination Brewing Bro Beer,3.54
+Abomination Brewing Hop Roulette,4.24
+Abomination Brewing Hop Thing,4.25
+Archer Roose Spritz,4.1
+Athletic Brewing Company Run Wild Non Alcoholic Ipa,3.62
+Athletic Brewing Upside Down Golden Ale,3.84
+Barrier Greenroom Pale Ale,4.2
+Better Wine Co Nitro Rose Spritzer,4.11
+Better Wine Co Red Wine Spritzer,3.61
+Blank Brewing The One That Just Kicked,4.38
+BrewDog Elvis Juice,4.07
+BrewDog Hazy Jane,3.59
+Bronx World Gone Ros√©,4
+Bud Light Lime Mang-O-Rita,3.51
+Angry Orchard Green Apple,4.13
+Angry Orchard Ros√©,3.7
+Beck's Non Alcoholic,4.08
+Beck‚Äôs Beer,3.59
+Bell's Black Note Stout,3.57
+Birra Moretti,3.5
+Braven White IPA,3.85
+Bruery Mash 2015,3.5
+Cascade/Bruery Terreux One Way or Another,3.41
+DESTIHL Dosvidanya Bourbon Barrel (2018),3.59
+Delirium Noel 2018,4.09
+Dogfish Head Burton Baton,3.46
+Dogfish Head Festina Peche 2018,3.92
+Evil Twin Bozo Beer,4.44
+Evil Twin Don No,4.01
+Flying Monkeys The Chocolate Manifesto,3.75
+Founders Backwoods Bastard 2017,3.46
+21 Amendment Brew Free! or Die IPA (Blood Orange),3.8
+Against the Grain Citra Ass Down,3.6
+Against the Grain Pile of Face,4.35
+Against the Grain Your Beer,3.9
+Against the Grain/Mikkeller Bloody Show,4.38
+Barrier Bird's Eye View,3.52
+Barrier Non-Cents Session IPA,3.4
+Barrier Tanto IPA,3.56
+Barrier/Interboro Money Mad Fat!,4.07
+Barrier/Rishi O-Ren Rishi,4.28
+Bissell Brothers Here's To Feeling Good All The Time,3.4
+Blue Point Citrus Plunge,3.7
+Menabrea Bionda,3.98
+Forst Premium,3.85
+Grimm I Still Love The Old World,4.34
+KCBC Pure Idaho,3.42
+KCBC/Zagovor Super Wow,3.54
+Kills Boro - Birthday Munchies,3.58
+Kills Boro - With Wild Abandon,3.6
+Montauk Wave Chaser India Pale Ale,4.26
+Moretti La Rossa,4.29
+NITRO,3.88
+Ross Navesink IPA,3.36
+Threes Logical Conclusion,3.6
+Taiwan Beer,3.58
+Blue Point Mosaic Session IPA,3.68
+Cisco Grey Lady,3.69
+Elysian Space Dust,4.41
+Evil Twin Falco,4.35
+21st Amendment Down to Earth,3.41
+Bunker Machine,3.58
+Commonwealth Afterglow,3.4
+Fifth Hammer Sourvision: Peach & Berry,3.58
+Grimm Maximum Delight,4.38
+Jack's Abby Copper Legend,3.5
+KCBC/Fifth Hammer More Trombone!,3.7
+Mikkeller NYC Bumpin' This Thread,3.7
+Mikkeller NYC Chop Shop,4.35
+Mikkeller NYC Mikkellerita,3.63
+Mikkeller NYC X Schaller & Weber Butcher Beer,3.9
+Public Access Suspended Disbelief,3.91
+Radiant Pig Save the Robots IPA,4.14
+Spotted Cow,3.74
+Miles Davis' Bitches Brew,3.49
+Leinenkugel's Summer Shandy,4.28
+Samuel Adams Latitude 48 IPA,3.53
+Espresso Oak Aged Yeti Imperial Stout,3.72
+R¸bÊus,3.59
+Samuel Adams Old Fezziwig Ale,3.54
+Perpetual IPA,3.51
+Samuel Adams Noble Pils,3.59
+Vitus,3.41
+Loose Cannon,3.59
+Paulaner Hefe-Weissbier Naturtr¸b,4.05
+Hopsecutioner,3.49
+Negra Modelo,3.52
+Arctic Panzer Wolf,4.17
+Go To IPA,3.7
+A Little Sumpin' Wild,3.7
+Anchor Liberty Ale,3.5
+Pranqster,3.67
+Organic Chocolate Stout,4
+Purple Haze,3.5
+Stout,3.6

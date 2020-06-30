@@ -13,6 +13,7 @@ import re
 import pandas as pd
 from dotenv import load_dotenv
 from flask import Flask, request, render_template, session, redirect
+import numpy as np
 
 load_dotenv()
 
@@ -70,7 +71,7 @@ def get_beer(zip_code):
     browser = webdriver.Chrome(CHROMEDRIVER_PATH)
     options = webdriver.ChromeOptions()
 
-    for u in full_url[:2]:
+    for u in full_url[:5]:
         browser.get(u)
         time.sleep(2)     
         options.add_argument('--headless')
@@ -113,36 +114,25 @@ def get_beer(zip_code):
     s2 = pd.Series(l2, name='Website')
     beer_df = pd.concat([s1,s2], axis=1)
     df0 = beer_df.drop_duplicates(subset=['Beer'])
-    results = df0.drop_duplicates(subset=['Website'])
-    html = results.to_html(classes=["table-bordered", "table-striped", "table-hover"])
-    
+    df = df0.drop_duplicates(subset=['Website'])
 
-    #CSV_FILENAME = "beer_ratings.csv"
-    #csv_filepath = os.path.join("data",CSV_FILENAME)
-    #df2 = pd.read_csv(csv_filepath, encoding='latin1')
-
-    #results = 
-
-    #def make_clickable(val):
-    # target _blank to open new window
-     #   return '<a target="_blank" href="{}">{}</a>'.format(val, val)
-
-    #df.style.format({'Website': make_clickable}) 
-    #html = (df.transpose())
+    CSV_FILENAME = "beer_ratings.csv"
+    csv_filepath = os.path.join("data",CSV_FILENAME)
+    df2 = pd.read_csv(csv_filepath, encoding='latin1')
+    total_df = pd.merge(df, df2, on='Beer', how='left')
+    total_df.fillna(0, inplace=True)
+    results = total_df.sort_values(by=['Rating'], ascending=False)
     return results
    
 if __name__ == "__main__":
-    app.debug = True
-    app.run()    
+    #app.debug = True
+    #app.run()    
     if APP_ENV == "development":
         zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
         results = get_beer(zip_code=zip_code) # invoke with custom params
     else:
         results = get_beer() # invoke with default params
-    
-    results.to_csv('data.csv')
-    #text_file = open("index.html", "w")
-    #text_file.write(results)
-    #text_file.close()
 
+    os.chdir("data")
+    results.to_csv('data.csv')
     print(results)
