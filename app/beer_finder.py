@@ -122,17 +122,18 @@ def get_beer(zip_code):
     total_df = pd.merge(df, df2, on='Beer', how='left')
     total_df.fillna(0, inplace=True)
     results = total_df.sort_values(by=['Rating'], ascending=False)
+    os.chdir("data")
+    results.to_csv('data.csv')
     return results
    
 if __name__ == "__main__":
-    #app.debug = True
-    #app.run()    
     if APP_ENV == "development":
         zip_code = input("PLEASE INPUT A ZIP CODE (e.g. 06510): ")
         results = get_beer(zip_code=zip_code) # invoke with custom params
     else:
         results = get_beer() # invoke with default params
+        os.chdir("data")
+        results.to_csv('data.csv')
 
-    os.chdir("data")
-    results.to_csv('data.csv')
+
     print(results)

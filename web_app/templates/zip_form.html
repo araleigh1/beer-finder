@@ -1,13 +1,13 @@
 {% extends "bootstrap_layout.html" %}
-{% set active_page = "weather_form" %}
+{% set active_page = "zip_form" %}
 
 {% block content %}
 
-    <h2>Weather Form</h2>
+    <h2>Local Beer Search Form/h2>
 
-    <p>Request an hourly forecast for your zip code...</p>
+    <p>See All of The Best Beers in Your Neighborhood...</p>
 
-    <form action="/weather/forecast" method="POST">
+    <form action="/beer_ranking" method="POST">
 
         <label>Zip Code:</label>
         <input type="text" name="zip_code" placeholder="20057" value="20057">
