@@ -1,1 +1,1 @@
-web: beer_finder:app
+web: beer_finder.py
